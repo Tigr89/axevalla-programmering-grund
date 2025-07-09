@@ -4,7 +4,7 @@ Syftet med denna uppgift är att bekanta er vid konsollen som vi kommer att anv�
 
 ## Uppgiftsbeskrivning
 
-[Uppgiftens flödesschema.](Output.pdf)
+[Uppgiftens flödesschema.](output.pdf)
 
 * Följ flödesschemat. 
 * Utnyttja materialet nedtill för att lösa uppgiften.
