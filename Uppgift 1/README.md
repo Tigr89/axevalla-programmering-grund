@@ -8,4 +8,4 @@ Skapa ett flöde över en vardaglig situation. I exemplet visar vi flödet när 
 
 Ni hittar förklaringarna för symbolerna samt ett exempel i repositoriet. För att rita ett eget flödesschema, besök [draw.io](https://app.diagrams.net/).
 
-[Symboler för flödesschemat](flowchart-symbols.png)
+![Symboler för flödesschemat](flowchart-symbols.png)
