@@ -14,4 +14,6 @@ Ni hittar förklaringarna för symbolerna samt ett exempel i repositoriet. För 
 * När ni är färdiga så ska ni spara ert arbete. Gå till menyfältet i det översta vänstra hörnet. Klicka på Fil -> Spara som. Spara ner den till datorn lokalt (dvs. inte till Google Drive). Klicka på dropdown-menyn och välj "Ladda ner".
 * Flytta ert nedladdade arbete till Uppgift 1 mappen. Följ sedan stegen för att pusha era ändringar till Git.
 
+
+
 ![Symboler för flödesschemat](flowchart-symbols.png)
