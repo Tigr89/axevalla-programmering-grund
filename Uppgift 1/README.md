@@ -15,5 +15,6 @@ Ni hittar förklaringarna för symbolerna samt ett exempel i repositoriet. För 
 * Flytta ert nedladdade arbete till Uppgift 1 mappen. Följ sedan stegen för att pusha era ändringar till Git.
 
 <br/>
+<br/>
 
 ![Symboler för flödesschemat](flowchart-symbols.png)
