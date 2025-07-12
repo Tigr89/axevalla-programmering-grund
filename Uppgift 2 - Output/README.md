@@ -1,4 +1,4 @@
-# Uppgift 2: Skapa ett eget flödesschema
+# Uppgift 2: Output
 
 Syftet med denna uppgift är att bekanta er vid konsollen som vi kommer att använda för att skapa och testa vår kod i. 
 
@@ -16,5 +16,5 @@ Syftet med denna uppgift är att bekanta er vid konsollen som vi kommer att anv�
 
 [W3 Schools](https://www.w3schools.com/cs/cs_output.php?authuser=1)
 
-[C# Guide](https://csharp.progdocs.se/grundlaggande/konsollen-console)
+[C# Guide](https://csharp.progdocs.se/grundlaggande/operatorer)
 
