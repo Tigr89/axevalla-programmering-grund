@@ -1,6 +1,6 @@
-# Uppgift 12: Läsa till- och från fil.
+# Uppgift 12: Skriva till- och från fil.
 
-Nu ska vi i ett litet programmeringspussel få lära oss hur vi skriver från- och till en fil på datorn.
+Nu ska vi i ett litet programmeringspussel få lära oss hur vi skriver till- och från en fil på datorn.
 
 ## Uppgiftsbeskrivning
 Ni har fått ett projekt som redan är skapat. I detta projekt finns det ett antal funktioner som ännu inte är färdiga. Det är ert jobb att skriva färdigt dem!
