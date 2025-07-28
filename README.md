@@ -3,7 +3,7 @@
 Kommandoguide för GIT:
 
 1. Jag vill hämta ett projekt från Git till min dator.
-Gå in på det repository ni vill hämta och klicka på den gröna knappen där det står <> Code. Sedan kopierar ni HTTPS-adressen. Därefter orienterar ni er till var ni vill spara projektet på datorn. Högerklicka och välj att öppna Git bash. Sedan skriver ni in följande: 
+Gå in på det repository ni vill hämta och klicka på den gröna knappen där det står **<> Code**. Sedan kopierar ni HTTPS-adressen. Därefter orienterar ni er till var ni vill spara projektet på datorn. Högerklicka och välj att öppna Git bash. Sedan skriver ni in följande: 
 * git **clone** [klistra in er adress här]
 
 2. Jag vill byta till min branch.
