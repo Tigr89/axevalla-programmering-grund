@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Axevalla\\Desktop\\axevalla-programmering-grund\\uppgift 3 som jag ska g\u00F6ra\\uppgift 3 den riktiga delen f\u00F6r mig\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2100E4F0-570A-4212-8F98-A915AD4061CA}|uppgift 3 den riktiga delen f\u00F6r mig\\uppgift 3 den riktiga delen f\u00F6r mig.csproj|c:\\users\\axevalla\\desktop\\axevalla-programmering-grund\\uppgift 3 som jag ska g\u00F6ra\\uppgift 3 den riktiga delen f\u00F6r mig\\uppgift 3 den riktiga delen f\u00F6r mig\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2100E4F0-570A-4212-8F98-A915AD4061CA}|uppgift 3 den riktiga delen f\u00F6r mig\\uppgift 3 den riktiga delen f\u00F6r mig.csproj|solutionrelative:uppgift 3 den riktiga delen f\u00F6r mig\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Axevalla\\Desktop\\axevalla-programmering-grund\\uppgift 3 som jag ska g\u00F6ra\\uppgift 3 den riktiga delen f\u00F6r mig\\uppgift 3 den riktiga delen f\u00F6r mig\\Program.cs",
+              "RelativeDocumentMoniker": "uppgift 3 den riktiga delen f\u00F6r mig\\Program.cs",
+              "ToolTip": "C:\\Users\\Axevalla\\Desktop\\axevalla-programmering-grund\\uppgift 3 som jag ska g\u00F6ra\\uppgift 3 den riktiga delen f\u00F6r mig\\uppgift 3 den riktiga delen f\u00F6r mig\\Program.cs",
+              "RelativeToolTip": "uppgift 3 den riktiga delen f\u00F6r mig\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T09:26:30.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

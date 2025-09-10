@@ -1,0 +1,7 @@
+C:\Users\Axevalla\Desktop\axevalla-programmering-grund\uppgift 3 som jag ska göra\uppgift 3 den riktiga delen för mig\uppgift 3 den riktiga delen för mig\obj\Debug\uppgift 3 den riktiga delen för mig.csproj.AssemblyReference.cache
+C:\Users\Axevalla\Desktop\axevalla-programmering-grund\uppgift 3 som jag ska göra\uppgift 3 den riktiga delen för mig\uppgift 3 den riktiga delen för mig\obj\Debug\uppgift 3 den riktiga delen för mig.csproj.CoreCompileInputs.cache
+C:\Users\Axevalla\Desktop\axevalla-programmering-grund\uppgift 3 som jag ska göra\uppgift 3 den riktiga delen för mig\uppgift 3 den riktiga delen för mig\bin\Debug\uppgift 3 den riktiga delen för mig.exe.config
+C:\Users\Axevalla\Desktop\axevalla-programmering-grund\uppgift 3 som jag ska göra\uppgift 3 den riktiga delen för mig\uppgift 3 den riktiga delen för mig\bin\Debug\uppgift 3 den riktiga delen för mig.exe
+C:\Users\Axevalla\Desktop\axevalla-programmering-grund\uppgift 3 som jag ska göra\uppgift 3 den riktiga delen för mig\uppgift 3 den riktiga delen för mig\bin\Debug\uppgift 3 den riktiga delen för mig.pdb
+C:\Users\Axevalla\Desktop\axevalla-programmering-grund\uppgift 3 som jag ska göra\uppgift 3 den riktiga delen för mig\uppgift 3 den riktiga delen för mig\obj\Debug\uppgift 3 den riktiga delen för mig.exe
+C:\Users\Axevalla\Desktop\axevalla-programmering-grund\uppgift 3 som jag ska göra\uppgift 3 den riktiga delen för mig\uppgift 3 den riktiga delen för mig\obj\Debug\uppgift 3 den riktiga delen för mig.pdb
