@@ -1,0 +1,69 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.0">
+  <diagram name="Sida-1" id="z9hxAzkyQs2d5fzKZXNT">
+    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zkdneU5mGw0u6RJ7SR2x-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zkdneU5mGw0u6RJ7SR2x-1" target="zkdneU5mGw0u6RJ7SR2x-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zkdneU5mGw0u6RJ7SR2x-1" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zkdneU5mGw0u6RJ7SR2x-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zkdneU5mGw0u6RJ7SR2x-9" target="zkdneU5mGw0u6RJ7SR2x-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zkdneU5mGw0u6RJ7SR2x-9" value="fråga&amp;nbsp;&lt;div&gt;hur många gifflar ska det vara ?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="160" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zkdneU5mGw0u6RJ7SR2x-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zkdneU5mGw0u6RJ7SR2x-12" target="zkdneU5mGw0u6RJ7SR2x-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zkdneU5mGw0u6RJ7SR2x-12" value="hur mycket personer ska äta?&lt;div&gt;2 per person&lt;/div&gt;&lt;div&gt;y=2x&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zkdneU5mGw0u6RJ7SR2x-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zkdneU5mGw0u6RJ7SR2x-21" target="zkdneU5mGw0u6RJ7SR2x-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zkdneU5mGw0u6RJ7SR2x-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zkdneU5mGw0u6RJ7SR2x-21" target="zkdneU5mGw0u6RJ7SR2x-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zkdneU5mGw0u6RJ7SR2x-21" value="öppna påsen med gifflar och lägg ut på fatet y=antal&amp;nbsp;&amp;nbsp;&lt;div&gt;x = 10 giflar&amp;nbsp;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="160" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zkdneU5mGw0u6RJ7SR2x-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zkdneU5mGw0u6RJ7SR2x-23" target="zkdneU5mGw0u6RJ7SR2x-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zkdneU5mGw0u6RJ7SR2x-23" value="avläsning&lt;div&gt;10 gifflar i paket&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="544.5" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zkdneU5mGw0u6RJ7SR2x-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zkdneU5mGw0u6RJ7SR2x-27" target="zkdneU5mGw0u6RJ7SR2x-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zkdneU5mGw0u6RJ7SR2x-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zkdneU5mGw0u6RJ7SR2x-27" target="zkdneU5mGw0u6RJ7SR2x-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zkdneU5mGw0u6RJ7SR2x-27" value="har alla x fått 2 gifflar?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="620" width="105" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="zkdneU5mGw0u6RJ7SR2x-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="zkdneU5mGw0u6RJ7SR2x-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="810" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zkdneU5mGw0u6RJ7SR2x-37" value="slut&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="860" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zkdneU5mGw0u6RJ7SR2x-41" value="nej" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="598" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zkdneU5mGw0u6RJ7SR2x-42" value="ja&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="703" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zkdneU5mGw0u6RJ7SR2x-43" value="häller upp gifflar i fatet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
