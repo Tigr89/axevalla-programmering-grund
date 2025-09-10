@@ -1,0 +1,116 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0">
+  <diagram name="Sida-1" id="q-jwo2DeN96awdfns_Od">
+    <mxGraphModel dx="1426" dy="897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="im8WB7aiZ6BjH4PlzIYL-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="im8WB7aiZ6BjH4PlzIYL-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="im8WB7aiZ6BjH4PlzIYL-1" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="im8WB7aiZ6BjH4PlzIYL-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="im8WB7aiZ6BjH4PlzIYL-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="im8WB7aiZ6BjH4PlzIYL-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="im8WB7aiZ6BjH4PlzIYL-8" target="im8WB7aiZ6BjH4PlzIYL-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="im8WB7aiZ6BjH4PlzIYL-8" value="Beräkning: Hur många ägg äter en person?&lt;div&gt;2 ägg/person&lt;br&gt;x= antal personer&lt;br&gt;2x = y&lt;/div&gt;&lt;div&gt;&amp;nbsp;mät hur mycket vatten behövs för att täcka äggen = Z&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="310" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="im8WB7aiZ6BjH4PlzIYL-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="im8WB7aiZ6BjH4PlzIYL-27" target="im8WB7aiZ6BjH4PlzIYL-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="im8WB7aiZ6BjH4PlzIYL-27" value="häll upp Z" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="540" width="176" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="im8WB7aiZ6BjH4PlzIYL-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="im8WB7aiZ6BjH4PlzIYL-31" target="im8WB7aiZ6BjH4PlzIYL-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="im8WB7aiZ6BjH4PlzIYL-31" value="ställ kastrullen på spisen" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="630" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="im8WB7aiZ6BjH4PlzIYL-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="im8WB7aiZ6BjH4PlzIYL-33" target="im8WB7aiZ6BjH4PlzIYL-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="im8WB7aiZ6BjH4PlzIYL-33" value="Avläsning: Temperatur vatten" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="253" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="im8WB7aiZ6BjH4PlzIYL-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="im8WB7aiZ6BjH4PlzIYL-35" target="im8WB7aiZ6BjH4PlzIYL-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="165" />
+              <mxPoint x="760" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="im8WB7aiZ6BjH4PlzIYL-35" value="Fråga: vill mina gäster ha ägg" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="100" width="175" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="im8WB7aiZ6BjH4PlzIYL-36" value="Ja" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="im8WB7aiZ6BjH4PlzIYL-37" value="Slut" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="910" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="im8WB7aiZ6BjH4PlzIYL-39" value="Nej" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="im8WB7aiZ6BjH4PlzIYL-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="im8WB7aiZ6BjH4PlzIYL-42" target="im8WB7aiZ6BjH4PlzIYL-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="393" y="920" />
+              <mxPoint x="393" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="im8WB7aiZ6BjH4PlzIYL-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="im8WB7aiZ6BjH4PlzIYL-42" target="im8WB7aiZ6BjH4PlzIYL-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="im8WB7aiZ6BjH4PlzIYL-42" value="Kokar vattnet?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="266" y="880" width="94" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="im8WB7aiZ6BjH4PlzIYL-45" value="Nej" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="940" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="im8WB7aiZ6BjH4PlzIYL-46" value="Ja" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="940" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="im8WB7aiZ6BjH4PlzIYL-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="im8WB7aiZ6BjH4PlzIYL-48" target="im8WB7aiZ6BjH4PlzIYL-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="im8WB7aiZ6BjH4PlzIYL-48" value="häll upp äggen på en tallrik" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="221.5" y="1090" width="183" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="im8WB7aiZ6BjH4PlzIYL-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="im8WB7aiZ6BjH4PlzIYL-52" target="im8WB7aiZ6BjH4PlzIYL-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="im8WB7aiZ6BjH4PlzIYL-52" value="Har det gått 8 minuter?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="273" y="980" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="im8WB7aiZ6BjH4PlzIYL-55" value="Ja" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1050" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="im8WB7aiZ6BjH4PlzIYL-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="im8WB7aiZ6BjH4PlzIYL-58" target="im8WB7aiZ6BjH4PlzIYL-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="im8WB7aiZ6BjH4PlzIYL-58" value="är kastrullen på spisen?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="700" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="im8WB7aiZ6BjH4PlzIYL-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="im8WB7aiZ6BjH4PlzIYL-60" target="im8WB7aiZ6BjH4PlzIYL-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="im8WB7aiZ6BjH4PlzIYL-60" value="sätt på högsta värmen" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="266" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
