@@ -1,0 +1,8 @@
+C:\Users\Axevalla\Documents\axevalla-programmering-grund\Uppgift 03 - Operander och beräkningar\Operander och beräkningar\Operander och beräkningar\bin\Debug\Operander och beräkningar.exe.config
+C:\Users\Axevalla\Documents\axevalla-programmering-grund\Uppgift 03 - Operander och beräkningar\Operander och beräkningar\Operander och beräkningar\bin\Debug\Operander och beräkningar.exe
+C:\Users\Axevalla\Documents\axevalla-programmering-grund\Uppgift 03 - Operander och beräkningar\Operander och beräkningar\Operander och beräkningar\bin\Debug\Operander och beräkningar.pdb
+C:\Users\Axevalla\Documents\axevalla-programmering-grund\Uppgift 03 - Operander och beräkningar\Operander och beräkningar\Operander och beräkningar\obj\Debug\Operander och beräkningar.csproj.AssemblyReference.cache
+C:\Users\Axevalla\Documents\axevalla-programmering-grund\Uppgift 03 - Operander och beräkningar\Operander och beräkningar\Operander och beräkningar\obj\Debug\Operander och beräkningar.csproj.CoreCompileInputs.cache
+C:\Users\Axevalla\Documents\axevalla-programmering-grund\Uppgift 03 - Operander och beräkningar\Operander och beräkningar\Operander och beräkningar\obj\Debug\Operander och beräkningar.exe
+C:\Users\Axevalla\Documents\axevalla-programmering-grund\Uppgift 03 - Operander och beräkningar\Operander och beräkningar\Operander och beräkningar\obj\Debug\Operander och beräkningar.pdb
+C:\Users\Axevalla\Documents\axevalla-programmering-grund\Uppgift 03 - Operander och beräkningar\Operander och beräkningar\Operander och beräkningar\obj\Debug\Operander och beräkningar.exe.config

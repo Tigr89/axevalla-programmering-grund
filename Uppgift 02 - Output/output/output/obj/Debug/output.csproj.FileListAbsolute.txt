@@ -1,0 +1,7 @@
+C:\Users\Axevalla\Documents\axevalla-programmering-grund\Uppgift 02 - Output\output\output\bin\Debug\output.exe.config
+C:\Users\Axevalla\Documents\axevalla-programmering-grund\Uppgift 02 - Output\output\output\bin\Debug\output.exe
+C:\Users\Axevalla\Documents\axevalla-programmering-grund\Uppgift 02 - Output\output\output\bin\Debug\output.pdb
+C:\Users\Axevalla\Documents\axevalla-programmering-grund\Uppgift 02 - Output\output\output\obj\Debug\output.csproj.AssemblyReference.cache
+C:\Users\Axevalla\Documents\axevalla-programmering-grund\Uppgift 02 - Output\output\output\obj\Debug\output.csproj.CoreCompileInputs.cache
+C:\Users\Axevalla\Documents\axevalla-programmering-grund\Uppgift 02 - Output\output\output\obj\Debug\output.exe
+C:\Users\Axevalla\Documents\axevalla-programmering-grund\Uppgift 02 - Output\output\output\obj\Debug\output.pdb
