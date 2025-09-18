@@ -1,0 +1,7 @@
+C:\Users\Axevalla\source\repos\uppgift 2\uppgift 2\obj\Debug\uppgift 2.csproj.AssemblyReference.cache
+C:\Users\Axevalla\source\repos\uppgift 2\uppgift 2\obj\Debug\uppgift 2.csproj.CoreCompileInputs.cache
+C:\Users\Axevalla\source\repos\uppgift 2\uppgift 2\bin\Debug\uppgift 2.exe.config
+C:\Users\Axevalla\source\repos\uppgift 2\uppgift 2\bin\Debug\uppgift 2.exe
+C:\Users\Axevalla\source\repos\uppgift 2\uppgift 2\bin\Debug\uppgift 2.pdb
+C:\Users\Axevalla\source\repos\uppgift 2\uppgift 2\obj\Debug\uppgift 2.exe
+C:\Users\Axevalla\source\repos\uppgift 2\uppgift 2\obj\Debug\uppgift 2.pdb
