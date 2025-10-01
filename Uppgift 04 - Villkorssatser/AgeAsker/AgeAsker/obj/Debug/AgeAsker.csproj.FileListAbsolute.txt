@@ -1,0 +1,7 @@
+C:\Users\Axevalla\Desktop\Vivian\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\AgeAsker\AgeAsker\bin\Debug\AgeAsker.exe.config
+C:\Users\Axevalla\Desktop\Vivian\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\AgeAsker\AgeAsker\bin\Debug\AgeAsker.exe
+C:\Users\Axevalla\Desktop\Vivian\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\AgeAsker\AgeAsker\bin\Debug\AgeAsker.pdb
+C:\Users\Axevalla\Desktop\Vivian\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\AgeAsker\AgeAsker\obj\Debug\AgeAsker.csproj.AssemblyReference.cache
+C:\Users\Axevalla\Desktop\Vivian\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\AgeAsker\AgeAsker\obj\Debug\AgeAsker.csproj.CoreCompileInputs.cache
+C:\Users\Axevalla\Desktop\Vivian\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\AgeAsker\AgeAsker\obj\Debug\AgeAsker.exe
+C:\Users\Axevalla\Desktop\Vivian\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\AgeAsker\AgeAsker\obj\Debug\AgeAsker.pdb
