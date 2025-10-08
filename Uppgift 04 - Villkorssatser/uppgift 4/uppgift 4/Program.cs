@@ -13,12 +13,12 @@ namespace uppgift_4
         {
             Console.WriteLine("what's your name?");
 
-            string name = "Adam";
+            string name;
             int age;
 
-            int birth_year = 2005;
+            
 
-            int current_year = 2025;
+            
 
 
 
@@ -26,22 +26,35 @@ namespace uppgift_4
 
 
             name = Console.ReadLine();
-            Console.WriteLine("Hej " + name + " när är du född?");
+            Console.WriteLine("Hej " + name + " hur gammal är du?");
 
 
 
-            birth_year = Convert.ToInt32(Console.ReadLine());
-            age = current_year - birth_year;
+            
 
-            Console.WriteLine("Du är " + age + " år gammal");
+           
+
+         
 
             age = Convert.ToInt32(Console.ReadLine());
 
-            if (age >= 12)
+            if (age <= 12)
             {
                 Console.WriteLine(name + " är ett barn");
             }
+            else if (age <= 25)
+            {
+                Console.WriteLine(name + " är en ungdom");
+            }
 
+            else if (age <= 40)
+            {
+                Console.WriteLine(name + " är en medelålders");
+            }
+            else if (age >= 41)
+            {
+                Console.WriteLine(name + " är en Gammal");
+            }
 
         }
     }

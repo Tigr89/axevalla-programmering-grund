@@ -1,0 +1,7 @@
+C:\Users\Axevalla\Desktop\programmering - Adam N\axevalla-programmering-grund\Uppgift 05 - While loop\uppgift 5 - Adam Nilsson\uppgift 5 - Adam Nilsson\bin\Debug\uppgift 5 - Adam Nilsson.exe.config
+C:\Users\Axevalla\Desktop\programmering - Adam N\axevalla-programmering-grund\Uppgift 05 - While loop\uppgift 5 - Adam Nilsson\uppgift 5 - Adam Nilsson\bin\Debug\uppgift 5 - Adam Nilsson.exe
+C:\Users\Axevalla\Desktop\programmering - Adam N\axevalla-programmering-grund\Uppgift 05 - While loop\uppgift 5 - Adam Nilsson\uppgift 5 - Adam Nilsson\bin\Debug\uppgift 5 - Adam Nilsson.pdb
+C:\Users\Axevalla\Desktop\programmering - Adam N\axevalla-programmering-grund\Uppgift 05 - While loop\uppgift 5 - Adam Nilsson\uppgift 5 - Adam Nilsson\obj\Debug\uppgift 5 - Adam Nilsson.csproj.AssemblyReference.cache
+C:\Users\Axevalla\Desktop\programmering - Adam N\axevalla-programmering-grund\Uppgift 05 - While loop\uppgift 5 - Adam Nilsson\uppgift 5 - Adam Nilsson\obj\Debug\uppgift 5 - Adam Nilsson.csproj.CoreCompileInputs.cache
+C:\Users\Axevalla\Desktop\programmering - Adam N\axevalla-programmering-grund\Uppgift 05 - While loop\uppgift 5 - Adam Nilsson\uppgift 5 - Adam Nilsson\obj\Debug\uppgift 5 - Adam Nilsson.exe
+C:\Users\Axevalla\Desktop\programmering - Adam N\axevalla-programmering-grund\Uppgift 05 - While loop\uppgift 5 - Adam Nilsson\uppgift 5 - Adam Nilsson\obj\Debug\uppgift 5 - Adam Nilsson.pdb
