@@ -1,0 +1,8 @@
+C:\Users\Axevalla\Documents\Emil W\Emil output\Emil output\bin\Debug\Emil output.exe.config
+C:\Users\Axevalla\Documents\Emil W\Emil output\Emil output\bin\Debug\Emil output.exe
+C:\Users\Axevalla\Documents\Emil W\Emil output\Emil output\bin\Debug\Emil output.pdb
+C:\Users\Axevalla\Documents\Emil W\Emil output\Emil output\obj\Debug\Emil output.csproj.AssemblyReference.cache
+C:\Users\Axevalla\Documents\Emil W\Emil output\Emil output\obj\Debug\Emil output.csproj.CoreCompileInputs.cache
+C:\Users\Axevalla\Documents\Emil W\Emil output\Emil output\obj\Debug\Emil output.exe
+C:\Users\Axevalla\Documents\Emil W\Emil output\Emil output\obj\Debug\Emil output.pdb
+C:\Users\Axevalla\Documents\Emil W\Emil output\Emil output\obj\Debug\Emil output.exe.config

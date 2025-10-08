@@ -1,0 +1,7 @@
+C:\Users\Axevalla\Documents\Emil W\Emiluppg4\Emiluppg4\obj\Debug\Emiluppg4.csproj.AssemblyReference.cache
+C:\Users\Axevalla\Documents\Emil W\Emiluppg4\Emiluppg4\obj\Debug\Emiluppg4.csproj.CoreCompileInputs.cache
+C:\Users\Axevalla\Documents\Emil W\Emiluppg4\Emiluppg4\bin\Debug\Emiluppg4.exe.config
+C:\Users\Axevalla\Documents\Emil W\Emiluppg4\Emiluppg4\bin\Debug\Emiluppg4.exe
+C:\Users\Axevalla\Documents\Emil W\Emiluppg4\Emiluppg4\bin\Debug\Emiluppg4.pdb
+C:\Users\Axevalla\Documents\Emil W\Emiluppg4\Emiluppg4\obj\Debug\Emiluppg4.exe
+C:\Users\Axevalla\Documents\Emil W\Emiluppg4\Emiluppg4\obj\Debug\Emiluppg4.pdb
