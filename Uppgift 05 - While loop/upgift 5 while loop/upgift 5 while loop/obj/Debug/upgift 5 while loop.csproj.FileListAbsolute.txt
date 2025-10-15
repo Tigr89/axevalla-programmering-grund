@@ -1,0 +1,7 @@
+C:\Users\Axevalla\Desktop\Vivian\axevalla-programmering-grund\Uppgift 05 - While loop\upgift 5 while loop\upgift 5 while loop\bin\Debug\upgift 5 while loop.exe.config
+C:\Users\Axevalla\Desktop\Vivian\axevalla-programmering-grund\Uppgift 05 - While loop\upgift 5 while loop\upgift 5 while loop\bin\Debug\upgift 5 while loop.exe
+C:\Users\Axevalla\Desktop\Vivian\axevalla-programmering-grund\Uppgift 05 - While loop\upgift 5 while loop\upgift 5 while loop\bin\Debug\upgift 5 while loop.pdb
+C:\Users\Axevalla\Desktop\Vivian\axevalla-programmering-grund\Uppgift 05 - While loop\upgift 5 while loop\upgift 5 while loop\obj\Debug\upgift 5 while loop.csproj.AssemblyReference.cache
+C:\Users\Axevalla\Desktop\Vivian\axevalla-programmering-grund\Uppgift 05 - While loop\upgift 5 while loop\upgift 5 while loop\obj\Debug\upgift 5 while loop.csproj.CoreCompileInputs.cache
+C:\Users\Axevalla\Desktop\Vivian\axevalla-programmering-grund\Uppgift 05 - While loop\upgift 5 while loop\upgift 5 while loop\obj\Debug\upgift 5 while loop.exe
+C:\Users\Axevalla\Desktop\Vivian\axevalla-programmering-grund\Uppgift 05 - While loop\upgift 5 while loop\upgift 5 while loop\obj\Debug\upgift 5 while loop.pdb
