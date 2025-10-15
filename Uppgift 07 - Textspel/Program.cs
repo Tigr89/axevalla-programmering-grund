@@ -14,6 +14,7 @@ namespace ConsoleApp1
         {
             Random rnd = new Random();
 
+<<<<<<< HEAD
             string playername = "";
             
             int playerhealth = 100;
@@ -115,6 +116,31 @@ namespace ConsoleApp1
                     Console.WriteLine("Spelare förlora");
                 }
                 Console.WriteLine("\nTack för att du spelade!");
+=======
+            int playerhealth = 100;
+            int enemyhealth = 100;
+            int emaxdamage = 10;
+            int emindamage = 5;
+
+            Console.WriteLine("Välkommen till spelet!");
+            Console.WriteLine("Vad heter du?");
+            string playername = Console.ReadLine();
+
+
+            Console.WriteLine("Ditt namn är", playername);
+
+            while (playerhealth  > 0 && enemyhealth > 0)
+            {
+                Console.WriteLine(playerhealth | enemyhealth);
+                Console.WriteLine("välj ett vapen mellan yxa 1. svärd 2. hammare 3.");
+                int weaponchoice = Convert.ToInt32(Console.ReadLine());
+
+            while (weaponchoice > 0)
+                {
+                    Console.WriteLine();
+                    int playerdamage = rnd.Next(emindamage, emaxdamage);
+                }
+>>>>>>> 79215d8bac9c56e9f3a3749752b3168bb3f192fe
             } 
         }
     }
