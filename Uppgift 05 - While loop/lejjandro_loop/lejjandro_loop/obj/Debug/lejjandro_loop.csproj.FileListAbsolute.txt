@@ -1,0 +1,8 @@
+C:\Users\Axevalla\Desktop\lejjandro\lejjandro_loop\lejjandro_loop\bin\Debug\lejjandro_loop.exe.config
+C:\Users\Axevalla\Desktop\lejjandro\lejjandro_loop\lejjandro_loop\bin\Debug\lejjandro_loop.exe
+C:\Users\Axevalla\Desktop\lejjandro\lejjandro_loop\lejjandro_loop\bin\Debug\lejjandro_loop.pdb
+C:\Users\Axevalla\Desktop\lejjandro\lejjandro_loop\lejjandro_loop\obj\Debug\lejjandro_loop.csproj.AssemblyReference.cache
+C:\Users\Axevalla\Desktop\lejjandro\lejjandro_loop\lejjandro_loop\obj\Debug\lejjandro_loop.csproj.CoreCompileInputs.cache
+C:\Users\Axevalla\Desktop\lejjandro\lejjandro_loop\lejjandro_loop\obj\Debug\lejjandro_loop.exe
+C:\Users\Axevalla\Desktop\lejjandro\lejjandro_loop\lejjandro_loop\obj\Debug\lejjandro_loop.pdb
+C:\Users\Axevalla\Desktop\lejjandro\lejjandro_loop\lejjandro_loop\obj\Debug\lejjandro_loop.exe.config

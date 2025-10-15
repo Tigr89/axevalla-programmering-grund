@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Axevalla\\Desktop\\lejjandro\\Lejjandro ber\u00E4kning\\",
+  "WorkspaceRootPath": "C:\\Users\\Axevalla\\Desktop\\lejjandro\\axevalla-programmering-grund\\Uppgift 04 - Villkorssatser\\Lejjandro ber\u00E4kning\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19DDA700-3D8D-47A4-B380-B3776B069709}|Lejjandro ber\u00E4kning\\Lejjandro ber\u00E4kning.csproj|c:\\users\\axevalla\\desktop\\lejjandro\\lejjandro ber\u00E4kning\\lejjandro ber\u00E4kning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19DDA700-3D8D-47A4-B380-B3776B069709}|Lejjandro ber\u00E4kning\\Lejjandro ber\u00E4kning.csproj|c:\\users\\axevalla\\desktop\\lejjandro\\axevalla-programmering-grund\\uppgift 04 - villkorssatser\\lejjandro ber\u00E4kning\\lejjandro ber\u00E4kning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19DDA700-3D8D-47A4-B380-B3776B069709}|Lejjandro ber\u00E4kning\\Lejjandro ber\u00E4kning.csproj|solutionrelative:lejjandro ber\u00E4kning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Axevalla\\Desktop\\lejjandro\\Lejjandro ber\u00E4kning\\Lejjandro ber\u00E4kning\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Axevalla\\Desktop\\lejjandro\\axevalla-programmering-grund\\Uppgift 04 - Villkorssatser\\Lejjandro ber\u00E4kning\\Lejjandro ber\u00E4kning\\Program.cs",
               "RelativeDocumentMoniker": "Lejjandro ber\u00E4kning\\Program.cs",
-              "ToolTip": "C:\\Users\\Axevalla\\Desktop\\lejjandro\\Lejjandro ber\u00E4kning\\Lejjandro ber\u00E4kning\\Program.cs*",
-              "RelativeToolTip": "Lejjandro ber\u00E4kning\\Program.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDAAAAAMAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Axevalla\\Desktop\\lejjandro\\axevalla-programmering-grund\\Uppgift 04 - Villkorssatser\\Lejjandro ber\u00E4kning\\Lejjandro ber\u00E4kning\\Program.cs",
+              "RelativeToolTip": "Lejjandro ber\u00E4kning\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T08:32:01.735Z",
               "EditorCaption": ""
