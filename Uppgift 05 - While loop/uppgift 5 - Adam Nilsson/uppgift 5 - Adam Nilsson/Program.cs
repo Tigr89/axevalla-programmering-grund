@@ -22,28 +22,39 @@ namespace uppgift_5___Adam_Nilsson
 
                 val = Convert.ToInt32(Console.ReadLine());
 
-                if (val == 1);
+                if (val <= 0 || val >= 4)
+                {
+                    Console.WriteLine("fel nummer");
+                }
+
+                else if (val == 1 && saldo >= 10)
                 {
                     saldo = saldo - 10;
 
                     Console.WriteLine("Du köpte Piggelin. Du har " + saldo + " kvar");
                 }
 
-                if (val == 2)
+                else if (val == 2 && saldo >= 20)
                 {
                     saldo = saldo - 20;
 
                     Console.WriteLine("Du köpte Magnum. Du har " + saldo + " kvar");
 
                 }
-;
 
-                if (val == 3) 
+
+                else if (val == 3 && saldo > 30)
                 {
                     saldo = saldo - 30;
 
                     Console.WriteLine("Du köpte Dajmglass. Du har " + saldo + " kvar");
                 }
+
+                else
+                {
+                    Console.WriteLine("du har mindre än 30kr, så du kan inte köpa Dajmglass");
+                }
+               
                 //Berätta för användaren vad den har för valmöjligheter
                 //Använd Console.WriteLine();
 
@@ -54,7 +65,10 @@ namespace uppgift_5___Adam_Nilsson
 
 
                 //Om spelaren har pengar kvar så kommer programmet loopa här!
-            }
+
+                
+                    
+                        }
         }
     }
 }
