@@ -1,0 +1,8 @@
+C:\Users\Axevalla\Desktop\lejjandro\Lejjandro_Switch\Lejjandro_Switch\bin\Debug\Lejjandro_Switch.exe.config
+C:\Users\Axevalla\Desktop\lejjandro\Lejjandro_Switch\Lejjandro_Switch\bin\Debug\Lejjandro_Switch.exe
+C:\Users\Axevalla\Desktop\lejjandro\Lejjandro_Switch\Lejjandro_Switch\bin\Debug\Lejjandro_Switch.pdb
+C:\Users\Axevalla\Desktop\lejjandro\Lejjandro_Switch\Lejjandro_Switch\obj\Debug\Lejjandro_Switch.csproj.AssemblyReference.cache
+C:\Users\Axevalla\Desktop\lejjandro\Lejjandro_Switch\Lejjandro_Switch\obj\Debug\Lejjandro_Switch.csproj.CoreCompileInputs.cache
+C:\Users\Axevalla\Desktop\lejjandro\Lejjandro_Switch\Lejjandro_Switch\obj\Debug\Lejjandro_Switch.exe
+C:\Users\Axevalla\Desktop\lejjandro\Lejjandro_Switch\Lejjandro_Switch\obj\Debug\Lejjandro_Switch.pdb
+C:\Users\Axevalla\Desktop\lejjandro\Lejjandro_Switch\Lejjandro_Switch\obj\Debug\Lejjandro_Switch.exe.config
