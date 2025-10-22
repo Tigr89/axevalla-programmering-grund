@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Axevalla\\Desktop\\lejjandro\\Lejjandro_Textspel\\",
+  "WorkspaceRootPath": "C:\\Users\\Lejjandro_PC\\Desktop\\Lejjandro\\axevalla-programmering-grund\\Uppgift 07 - Textspel\\Lejjandro_Textspel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26D27751-089D-4FC8-9FD9-9997BD7610DF}|Lejjandro_Textspel\\Lejjandro_Textspel.csproj|c:\\users\\axevalla\\desktop\\lejjandro\\lejjandro_textspel\\lejjandro_textspel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26D27751-089D-4FC8-9FD9-9997BD7610DF}|Lejjandro_Textspel\\Lejjandro_Textspel.csproj|c:\\users\\lejjandro_pc\\desktop\\lejjandro\\axevalla-programmering-grund\\uppgift 07 - textspel\\lejjandro_textspel\\lejjandro_textspel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26D27751-089D-4FC8-9FD9-9997BD7610DF}|Lejjandro_Textspel\\Lejjandro_Textspel.csproj|solutionrelative:lejjandro_textspel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Axevalla\\Desktop\\lejjandro\\Lejjandro_Textspel\\Lejjandro_Textspel\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lejjandro_PC\\Desktop\\Lejjandro\\axevalla-programmering-grund\\Uppgift 07 - Textspel\\Lejjandro_Textspel\\Lejjandro_Textspel\\Program.cs",
               "RelativeDocumentMoniker": "Lejjandro_Textspel\\Program.cs",
-              "ToolTip": "C:\\Users\\Axevalla\\Desktop\\lejjandro\\Lejjandro_Textspel\\Lejjandro_Textspel\\Program.cs",
+              "ToolTip": "C:\\Users\\Lejjandro_PC\\Desktop\\Lejjandro\\axevalla-programmering-grund\\Uppgift 07 - Textspel\\Lejjandro_Textspel\\Lejjandro_Textspel\\Program.cs",
               "RelativeToolTip": "Lejjandro_Textspel\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAQwGkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T09:46:23.013Z",
               "EditorCaption": ""
