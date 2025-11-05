@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 06 - Switch\uppgift 6 - Adam N\uppgift 6 - Adam N\obj\Debug\uppgift 6 - Adam N.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 06 - Switch\uppgift 6 - Adam N\uppgift 6 - Adam N\obj\Debug\uppgift 6 - Adam N.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 06 - Switch\uppgift 6 - Adam N\uppgift 6 - Adam N\bin\Debug\uppgift 6 - Adam N.exe.config
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 06 - Switch\uppgift 6 - Adam N\uppgift 6 - Adam N\bin\Debug\uppgift 6 - Adam N.exe
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 06 - Switch\uppgift 6 - Adam N\uppgift 6 - Adam N\bin\Debug\uppgift 6 - Adam N.pdb
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 06 - Switch\uppgift 6 - Adam N\uppgift 6 - Adam N\obj\Debug\uppgift 6 - Adam N.exe
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 06 - Switch\uppgift 6 - Adam N\uppgift 6 - Adam N\obj\Debug\uppgift 6 - Adam N.pdb
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 06 - Switch\uppgift 6 - Adam N\uppgift 6 - Adam N\obj\Debug\uppgift 6 - Adam N.exe.config
