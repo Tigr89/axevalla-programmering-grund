@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\berakning\berakning\bin\Debug\net8.0\berakning.exe
+C:\Users\Admin\source\repos\berakning\berakning\bin\Debug\net8.0\berakning.deps.json
+C:\Users\Admin\source\repos\berakning\berakning\bin\Debug\net8.0\berakning.runtimeconfig.json
+C:\Users\Admin\source\repos\berakning\berakning\bin\Debug\net8.0\berakning.dll
+C:\Users\Admin\source\repos\berakning\berakning\bin\Debug\net8.0\berakning.pdb
+C:\Users\Admin\source\repos\berakning\berakning\obj\Debug\net8.0\berakning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\berakning\berakning\obj\Debug\net8.0\berakning.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\berakning\berakning\obj\Debug\net8.0\berakning.AssemblyInfo.cs
+C:\Users\Admin\source\repos\berakning\berakning\obj\Debug\net8.0\berakning.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\berakning\berakning\obj\Debug\net8.0\berakning.dll
+C:\Users\Admin\source\repos\berakning\berakning\obj\Debug\net8.0\refint\berakning.dll
+C:\Users\Admin\source\repos\berakning\berakning\obj\Debug\net8.0\berakning.pdb
+C:\Users\Admin\source\repos\berakning\berakning\obj\Debug\net8.0\berakning.genruntimeconfig.cache
+C:\Users\Admin\source\repos\berakning\berakning\obj\Debug\net8.0\ref\berakning.dll
