@@ -8,66 +8,69 @@ namespace project7a
 {
     internal class Program
     {
-        Random rnd = new Random();
 
-        
         static void Main(string[] args)
         {
+            Random rnd = new Random();
             string playerName = "";
             int playerHP = 100;
             string weaponType = "";
             int weaponChoice;
             int playerDamage;
-            int pMaxDamage;
-            int pMinDamage;
+            int pMaxDamage = 0;
+            int pMinDamage = 0;
             int enemyHP = 100;
             int enemyDamage;
             int eMaxDamage = 25;
             int eMinDamage = 15;
-            
+
 
             Console.WriteLine("Välkommen till: svärd, dolk eller yxa!");
             Console.WriteLine("Vad är ditt namn?");
             playerName = Console.ReadLine();
-            Console.WriteLine("Okej " + playerName + ", gör dig redo för strid");
+            Console.WriteLine("Okej " + playerName + ", gör dig redo för strid, Skriv bara nummer eller börja om");
 
             while (playerHP > 0 && enemyHP > 0)
             {
-                Console.WriteLine("Ny runda för er, hur mår ni? du: " + playerHP + " motståndare: "+ enemyHP + " bra");
+                Console.WriteLine("Ny runda för er, hur mår ni? du: " + playerHP + " motståndare: " + enemyHP + " bra");
                 Console.WriteLine("Välj ditt vapen: 1 för svärd, 2 för yxa, och 3 för dolk.");
                 while (weaponType == "")
                 {
                     weaponChoice = Convert.ToInt32(Console.ReadLine());
                     switch (weaponChoice)
                     {
+                        default:
+                            weaponType = "";
+                            Console.WriteLine("Error, välj igen");
+                            break;
                         case 1:
-                            weaponType = "1"
-                            Console.WriteLine("svärd")
-                            pMaxDamage = 25
-                            pMinDamage = 19
+                            weaponType = "1";
+                            Console.WriteLine("svärd");
+                            pMaxDamage = 25;
+                            pMinDamage = 17;
                             break;
                         case 2:
-                            weaponType = "2"
-                            Console.WriteLine("yxa")
-                            pMaxDamage = 30
-                            pMinDamage = 14
+                            weaponType = "2";
+                            Console.WriteLine("yxa");
+                            pMaxDamage = 30;
+                            pMinDamage = 14;
                             break;
                         case 3:
-                            weaponType = "3"
-                            Console.WriteLine("dolk")
-                            pMaxDamage = 20
-                            pMinDamage = 19
-                            break;
-                        default:
-                            weaponType = ""
-                            Console.WriteLine("Error, välj igen")
+                            weaponType = "3";
+                            Console.WriteLine("dolk");
+                            pMaxDamage = 20;
+                            pMinDamage = 19;
                             break;
                     }
                 }
-                playerDamage = rnd.Next(pMaxDamage, pMinDamage);
-                enemyDamage = rnd.Next(eMaxDamage, eMinDamage);
+                playerDamage = rnd.Next(pMinDamage, pMaxDamage);
+                enemyDamage = rnd.Next(eMinDamage, eMaxDamage);
                 playerHP -= enemyDamage;
+                Console.WriteLine("Du tog " + enemyDamage + " poäng skada.");
                 enemyHP -= playerDamage;
+                Console.WriteLine("Du slog fienden för " + playerDamage + " poäng skada.");
+
+                weaponType = "";
             }
             if (playerHP > 0)
             {
