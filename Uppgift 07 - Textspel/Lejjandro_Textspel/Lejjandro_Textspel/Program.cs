@@ -42,6 +42,8 @@ namespace Lejjandro_Textspel
             Console.WriteLine("Welcome to the blacksmith adventure, here you can choose your weapon that will accompany you throughout all your journey.");
             Console.ReadLine();
 
+            // Weapon selection loop
+            // Vapenvalslopp
             while (playerHP > 0 && enemyHp > 0)
             {
                 while (weaponType == "")
@@ -124,31 +126,57 @@ namespace Lejjandro_Textspel
                     break;
             }
 
+            // Combat loop
+            // Stridsloop
             while (playerHP > 0 && enemyHp > 0)
             {
+                int val = 0;
+                
                 playerDamage = rnd.Next(playerMinDamage, playerMaxDamage);
-
-                enemyHp = enemyHp - playerDamage;
 
                 enemyDamage = rnd.Next(enemyMinDamage, enemyMaxDamage);
 
+                // Player attack choice
+                // Spelarens attackval
+                while ( val < 1 || val > 2)
+                {
+                    Console.WriteLine("Choose your attack:\n1. Light Attack (Normal damage)\n2. Heavy Attack (Low chance to hit, chance to do critial damage)");
+                    val = Convert.ToInt32(Console.ReadLine());
+                    switch (val)
+                    {
+                        case 1:
+                            Console.WriteLine("You chose Light Attack!");
+                            break;
+
+                        case 2:
+
+                            // Critical hit and miss chance
+                            // Kritisk träff och misschans
+                            if (rnd.Next(0, 100) <= playercritChance)
+                            {
+                                playerDamage = playerDamage * 2;
+                                Console.WriteLine("(Critical Hit!)");
+                            }
+                            else
+                            {
+                                playerDamage = 0;
+                                Console.WriteLine("(You missed your attack!)");
+                            }
+                            break;
+
+                        default:
+                            Console.WriteLine("Invalid choice, please choose again.");
+                            break;
+                    }
+                }
+                // Apply damage
+                // Tillämpa skada
+                enemyHp = enemyHp - playerDamage;
+
                 playerHP = playerHP - enemyDamage;
 
-                //light and heavy attack system here!!
-
-                // 20% chance for the player to hit critically or miss
-                // 20% chans att spelaren träffar kritiskt eller missar
-                if (rnd.Next(0, 100) <= playercritChance)
-                {
-                    playerDamage = playerDamage * 2;
-                    Console.WriteLine("(Critical Hit!)");
-                }
-                else
-                {
-                    playerDamage = 0;
-                    Console.WriteLine("(You missed your attack!)");
-                }
-
+                // Player damage
+                // Spelarens skada
                 if (enemyHp < 100)
                 {
                     Console.WriteLine("Your " + weaponType + " dealt " + playerDamage + " damage to the enemy.");
@@ -160,6 +188,8 @@ namespace Lejjandro_Textspel
                     Console.WriteLine("The enemy has " + enemyHp + " HP left.");
                 }
 
+                // Enemy damage
+                // Fiendens skada
                 if (playerHP < 100)
                 {
                     Console.WriteLine("The enemy dealt " + enemyDamage + " damage to you.");
@@ -171,13 +201,16 @@ namespace Lejjandro_Textspel
                     Console.WriteLine("You have " + playerHP + " HP left.");
                 }
 
+                // Check for enemy defeat
+                // Kontrollera om fienden är besegrad
                 if (enemyHp <= 0)
                 {
                     Console.WriteLine("The enemy has been defeated!");
                 }
 
             }
-
+            // End game messages
+            // Slutmeddelanden
             if (playerHP > 0)
             {
                 Console.WriteLine("YOU WIN CONGRATULATIONS ADVENTURE");
