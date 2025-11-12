@@ -34,21 +34,31 @@ namespace uppgift_6___Adam_N
                     {
                         case 1:
                             saldo = saldo - 10;
-                            Console.WriteLine("Du köpte Piggelin. Du har  " + saldo + "kvar ");
+                            Console.WriteLine("Du köpte Piggelin. Du har " + saldo + " kvar ");
                             break;
 
 
 
                         case 2:
-                            saldo = saldo - 20;
-                            Console.WriteLine("Du köpte Magnum. Du har  " + saldo + "kvar ");
-                            break;
+                            if (saldo >= 20)
+                            {
+                                saldo = saldo - 20;
+                                Console.WriteLine("Du köpte Magnum. Du har " + saldo + " kvar ");
+
+                            }
+                            else Console.WriteLine("Du har inte råd");
+                                break;
 
 
 
                         case 3:
+                            if (saldo >= 30)
+                            {
                             saldo = saldo - 30;
-                            Console.WriteLine("Du köpte Dajmglass. Du har  " + saldo + "kvar ");
+                            Console.WriteLine("Du köpte Dajmglass. Du har " + saldo + " kvar ");
+
+                            }
+                            else Console.WriteLine("Du har inte råd");
                             break;
 
                         default:

@@ -14,3 +14,11 @@ C:\Users\Axevalla\Desktop\programmering - Adam N\axevalla-programmering-grund\Up
 C:\Users\Axevalla\Desktop\programmering - Adam N\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\uppgift 4\uppgift 4\obj\Debug\uppgift 4.csproj.CoreCompileInputs.cache
 C:\Users\Axevalla\Desktop\programmering - Adam N\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\uppgift 4\uppgift 4\obj\Debug\uppgift 4.exe
 C:\Users\Axevalla\Desktop\programmering - Adam N\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\uppgift 4\uppgift 4\obj\Debug\uppgift 4.pdb
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\uppgift 4\uppgift 4\bin\Debug\uppgift 4.exe.config
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\uppgift 4\uppgift 4\bin\Debug\uppgift 4.exe
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\uppgift 4\uppgift 4\bin\Debug\uppgift 4.pdb
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\uppgift 4\uppgift 4\obj\Debug\uppgift 4.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\uppgift 4\uppgift 4\obj\Debug\uppgift 4.exe.config
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\uppgift 4\uppgift 4\obj\Debug\uppgift 4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\uppgift 4\uppgift 4\obj\Debug\uppgift 4.exe
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\uppgift 4\uppgift 4\obj\Debug\uppgift 4.pdb
