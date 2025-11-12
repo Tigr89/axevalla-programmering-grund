@@ -1,0 +1,162 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
+  <diagram name="Sida-1" id="pRFeEr3OKNNFFHquNtgK">
+    <mxGraphModel dx="2013" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="97FqiYr2JmEPcIGfCx-3-1" value="vakna up" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="97FqiYr2JmEPcIGfCx-3-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="97FqiYr2JmEPcIGfCx-3-1" target="97FqiYr2JmEPcIGfCx-3-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="260" as="sourcePoint" />
+            <mxPoint x="420" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="97FqiYr2JmEPcIGfCx-3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="97FqiYr2JmEPcIGfCx-3-4" target="97FqiYr2JmEPcIGfCx-3-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="97FqiYr2JmEPcIGfCx-3-4" value="äta frukost" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97FqiYr2JmEPcIGfCx-3-5" value="gå till bussen" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="405" y="380" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97FqiYr2JmEPcIGfCx-3-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="97FqiYr2JmEPcIGfCx-3-5" target="97FqiYr2JmEPcIGfCx-3-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="400" as="sourcePoint" />
+            <mxPoint x="570" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="97FqiYr2JmEPcIGfCx-3-9" value="till Lidköpings recentrum" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=60;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="300" y="515" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="97FqiYr2JmEPcIGfCx-3-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.406;exitY=0.006;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="97FqiYr2JmEPcIGfCx-3-9" target="97FqiYr2JmEPcIGfCx-3-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="510" as="sourcePoint" />
+            <mxPoint x="420" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="97FqiYr2JmEPcIGfCx-3-11" value="vänta till bussen till Skövde 200" style="shape=tape;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="640" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="97FqiYr2JmEPcIGfCx-3-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.588;entryY=1.027;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.478;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="97FqiYr2JmEPcIGfCx-3-11" target="97FqiYr2JmEPcIGfCx-3-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="640" as="sourcePoint" />
+            <mxPoint x="470" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="97FqiYr2JmEPcIGfCx-3-13" value="åka till bussen till Skövde" style="shape=xor;whiteSpace=wrap;html=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="405" y="770" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="97FqiYr2JmEPcIGfCx-3-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0.558;entryY=0.754;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.31;exitY=-0.015;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="97FqiYr2JmEPcIGfCx-3-13" target="97FqiYr2JmEPcIGfCx-3-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="780" as="sourcePoint" />
+            <mxPoint x="480" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="97FqiYr2JmEPcIGfCx-3-15" value="Gå till bussen&lt;br&gt;vid Lidköpings resecentrum" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1">
+          <mxGeometry x="580" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GjZ0lMbEytjiRlQP4ibF-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.quadArrow;dy=10;dx=20;notch=24;arrowHead=200;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="10" y="130" width="50" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="GjZ0lMbEytjiRlQP4ibF-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=6;dx=32;notch=43;arrowHead=11;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="-15" y="270" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GjZ0lMbEytjiRlQP4ibF-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutQuadArrow;dy=0;dx=32;notch=17;arrowHead=10;" parent="1" vertex="1">
+          <mxGeometry x="-15" y="130" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GjZ0lMbEytjiRlQP4ibF-7" value="" style="shape=mxgraph.arrows2.wedgeArrow;html=1;bendable=0;startWidth=34;fillColor=strokeColor;defaultFillColor=invert;defaultGradientColor=invert;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-70" y="315" as="sourcePoint" />
+            <mxPoint x="70" y="365" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GjZ0lMbEytjiRlQP4ibF-9" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.tailedNotchedArrow;dy1=10;dx1=25;notch=75;arrowHead=20;dx2=20;dy2=30;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="-15" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GjZ0lMbEytjiRlQP4ibF-11" value="är på resecentrum och väntar på Skövde 200 bussen" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GomyxQuDETRfrO3CVFd-1" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="GjZ0lMbEytjiRlQP4ibF-11" target="97FqiYr2JmEPcIGfCx-3-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="560" as="sourcePoint" />
+            <mxPoint x="680" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4GomyxQuDETRfrO3CVFd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.545;entryY=0.08;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GjZ0lMbEytjiRlQP4ibF-11" target="4GomyxQuDETRfrO3CVFd-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="680" />
+              <mxPoint x="644" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4GomyxQuDETRfrO3CVFd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4GomyxQuDETRfrO3CVFd-3" target="GjZ0lMbEytjiRlQP4ibF-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="760" />
+              <mxPoint x="780" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4GomyxQuDETRfrO3CVFd-5" value="nej" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4GomyxQuDETRfrO3CVFd-4">
+          <mxGeometry x="-0.2007" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4GomyxQuDETRfrO3CVFd-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4GomyxQuDETRfrO3CVFd-3" target="4GomyxQuDETRfrO3CVFd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4GomyxQuDETRfrO3CVFd-8" value="ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4GomyxQuDETRfrO3CVFd-7">
+          <mxGeometry x="-0.14" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4GomyxQuDETRfrO3CVFd-3" value="har bussen kommit?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="680" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="4GomyxQuDETRfrO3CVFd-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4GomyxQuDETRfrO3CVFd-6" target="4GomyxQuDETRfrO3CVFd-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4GomyxQuDETRfrO3CVFd-6" value="kliver ombord bussen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GomyxQuDETRfrO3CVFd-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4GomyxQuDETRfrO3CVFd-9" target="4GomyxQuDETRfrO3CVFd-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="1229" />
+              <mxPoint x="760" y="1080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4GomyxQuDETRfrO3CVFd-15" value="nej" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4GomyxQuDETRfrO3CVFd-14">
+          <mxGeometry x="0.0553" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4GomyxQuDETRfrO3CVFd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4GomyxQuDETRfrO3CVFd-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4GomyxQuDETRfrO3CVFd-9" value="bussen stannar vid Axvall Centrum" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1169" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4GomyxQuDETRfrO3CVFd-12" value="väntar på att stanna vid Axvall Centrum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GomyxQuDETRfrO3CVFd-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4GomyxQuDETRfrO3CVFd-18" target="4GomyxQuDETRfrO3CVFd-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4GomyxQuDETRfrO3CVFd-18" value="jag hoppar av" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GomyxQuDETRfrO3CVFd-19" value="är på Axevalla Folkhögskolan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1470" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
