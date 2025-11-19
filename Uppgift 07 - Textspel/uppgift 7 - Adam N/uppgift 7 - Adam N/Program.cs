@@ -16,8 +16,10 @@ namespace uppgift_7___Adam_N
             Random rnd = new Random();
             string PlayerName = "Player";
             int PlayerHP = 100;
-            string Weapontype = "Axe";
-            int WeaponChoice;
+            string Axe = "Axe";
+            string Sword = "Sword";
+            string Hammer = "Hammer";
+            string WeaponChoice;
             int pMaxDamage;
             int pMinDamage;
             int PlayerDamage;
@@ -33,12 +35,53 @@ namespace uppgift_7___Adam_N
             Console.WriteLine("Interesting name " + name + ". The game is played by simply killing enemies until you die");
 
 
-            Console.WriteLine("An ORC has appeared. He have " + EnemyHP + "HP and " + name + " has " + PlayerHP + "HP");
+            Console.WriteLine("An ORC has appeared.");
 
 
 
+            while (EnemyHP >= 0 && PlayerHP >= 0)
+            {
+                
+                
+                Console.WriteLine("The ORC have " + EnemyHP + "HP and " + name + " has " + PlayerHP + "HP");
 
+                Console.WriteLine("You need a weapon. Do you want a Sword, an Axe or a Hammer?");
+                WeaponChoice = Console.ReadLine();
+                if (WeaponChoice.ToLower() == "axe")
+                {
+                    Console.WriteLine ("Du valde " + WeaponChoice);
+                    break;
+                }
+
+                else if (WeaponChoice.ToLower() == "sword")
+                {
+                    Console.WriteLine("Du valde " + WeaponChoice);
+                    break;
+                }
+
+                else if (WeaponChoice.ToLower() == "hammer")
+                {
+                    Console.WriteLine("Du valde " + WeaponChoice);
+                    break;
+                }
+
+
+
+            }
+
+            if (PlayerHP <= 0 == true)
+            {
+                Console.WriteLine("Du förlorade");
+            }
+
+            else if (PlayerHP <= 0 == false)
+            {
+                Console.WriteLine("Du vann!");
+            }
         }
+        
+        
+        
 
 
     }
