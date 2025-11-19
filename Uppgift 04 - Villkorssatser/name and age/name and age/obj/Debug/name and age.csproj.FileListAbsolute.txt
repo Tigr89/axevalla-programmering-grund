@@ -1,0 +1,8 @@
+C:\Users\Axevalla\Desktop\christina\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\name and age\name and age\obj\Debug\name and age.csproj.AssemblyReference.cache
+C:\Users\Axevalla\Desktop\christina\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\name and age\name and age\obj\Debug\name and age.csproj.CoreCompileInputs.cache
+C:\Users\Axevalla\Desktop\christina\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\name and age\name and age\bin\Debug\name and age.exe.config
+C:\Users\Axevalla\Desktop\christina\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\name and age\name and age\bin\Debug\name and age.exe
+C:\Users\Axevalla\Desktop\christina\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\name and age\name and age\bin\Debug\name and age.pdb
+C:\Users\Axevalla\Desktop\christina\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\name and age\name and age\obj\Debug\name and age.exe
+C:\Users\Axevalla\Desktop\christina\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\name and age\name and age\obj\Debug\name and age.pdb
+C:\Users\Axevalla\Desktop\christina\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\name and age\name and age\obj\Debug\name and age.exe.config

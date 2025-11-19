@@ -1,0 +1,8 @@
+C:\Users\Axevalla\Desktop\christina\axevalla-programmering-grund\Uppgift 05 - While loop\loop\loop\obj\Debug\loop.csproj.AssemblyReference.cache
+C:\Users\Axevalla\Desktop\christina\axevalla-programmering-grund\Uppgift 05 - While loop\loop\loop\obj\Debug\loop.csproj.CoreCompileInputs.cache
+C:\Users\Axevalla\Desktop\christina\axevalla-programmering-grund\Uppgift 05 - While loop\loop\loop\bin\Debug\loop.exe.config
+C:\Users\Axevalla\Desktop\christina\axevalla-programmering-grund\Uppgift 05 - While loop\loop\loop\bin\Debug\loop.exe
+C:\Users\Axevalla\Desktop\christina\axevalla-programmering-grund\Uppgift 05 - While loop\loop\loop\bin\Debug\loop.pdb
+C:\Users\Axevalla\Desktop\christina\axevalla-programmering-grund\Uppgift 05 - While loop\loop\loop\obj\Debug\loop.exe
+C:\Users\Axevalla\Desktop\christina\axevalla-programmering-grund\Uppgift 05 - While loop\loop\loop\obj\Debug\loop.pdb
+C:\Users\Axevalla\Desktop\christina\axevalla-programmering-grund\Uppgift 05 - While loop\loop\loop\obj\Debug\loop.exe.config

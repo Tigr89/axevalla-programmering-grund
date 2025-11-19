@@ -1,0 +1,8 @@
+C:\Users\Axevalla\Desktop\christina\axevalla-programmering-grund\Uppgift 08 - Sten, sax, påse\sax sten påse\sax sten påse\obj\Debug\sax sten påse.csproj.AssemblyReference.cache
+C:\Users\Axevalla\Desktop\christina\axevalla-programmering-grund\Uppgift 08 - Sten, sax, påse\sax sten påse\sax sten påse\obj\Debug\sax sten påse.csproj.CoreCompileInputs.cache
+C:\Users\Axevalla\Desktop\christina\axevalla-programmering-grund\Uppgift 08 - Sten, sax, påse\sax sten påse\sax sten påse\bin\Debug\sax sten påse.exe.config
+C:\Users\Axevalla\Desktop\christina\axevalla-programmering-grund\Uppgift 08 - Sten, sax, påse\sax sten påse\sax sten påse\bin\Debug\sax sten påse.exe
+C:\Users\Axevalla\Desktop\christina\axevalla-programmering-grund\Uppgift 08 - Sten, sax, påse\sax sten påse\sax sten påse\bin\Debug\sax sten påse.pdb
+C:\Users\Axevalla\Desktop\christina\axevalla-programmering-grund\Uppgift 08 - Sten, sax, påse\sax sten påse\sax sten påse\obj\Debug\sax sten påse.exe
+C:\Users\Axevalla\Desktop\christina\axevalla-programmering-grund\Uppgift 08 - Sten, sax, påse\sax sten påse\sax sten påse\obj\Debug\sax sten påse.pdb
+C:\Users\Axevalla\Desktop\christina\axevalla-programmering-grund\Uppgift 08 - Sten, sax, påse\sax sten påse\sax sten påse\obj\Debug\sax sten påse.exe.config
