@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Axevalla\\Desktop\\lejjandro\\Lejjandro_Sten, sax, p\u00E5se\\",
+  "WorkspaceRootPath": "C:\\Users\\Axevalla\\Desktop\\lejjandro\\axevalla-programmering-grund\\Uppgift 08 - Sten, sax, p\u00E5se\\Lejjandro_Sten, sax, p\u00E5se\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82DBE9D7-535D-4E6E-BDBC-1885C27A0559}|Lejjandro_Sten, sax, p\u00E5se\\Lejjandro_Sten, sax, p\u00E5se.csproj|c:\\users\\axevalla\\desktop\\lejjandro\\lejjandro_sten, sax, p\u00E5se\\lejjandro_sten, sax, p\u00E5se\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82DBE9D7-535D-4E6E-BDBC-1885C27A0559}|Lejjandro_Sten, sax, p\u00E5se\\Lejjandro_Sten, sax, p\u00E5se.csproj|c:\\users\\axevalla\\desktop\\lejjandro\\axevalla-programmering-grund\\uppgift 08 - sten, sax, p\u00E5se\\lejjandro_sten, sax, p\u00E5se\\lejjandro_sten, sax, p\u00E5se\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82DBE9D7-535D-4E6E-BDBC-1885C27A0559}|Lejjandro_Sten, sax, p\u00E5se\\Lejjandro_Sten, sax, p\u00E5se.csproj|solutionrelative:lejjandro_sten, sax, p\u00E5se\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Axevalla\\Desktop\\lejjandro\\Lejjandro_Sten, sax, p\u00E5se\\Lejjandro_Sten, sax, p\u00E5se\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Axevalla\\Desktop\\lejjandro\\axevalla-programmering-grund\\Uppgift 08 - Sten, sax, p\u00E5se\\Lejjandro_Sten, sax, p\u00E5se\\Lejjandro_Sten, sax, p\u00E5se\\Program.cs",
               "RelativeDocumentMoniker": "Lejjandro_Sten, sax, p\u00E5se\\Program.cs",
-              "ToolTip": "C:\\Users\\Axevalla\\Desktop\\lejjandro\\Lejjandro_Sten, sax, p\u00E5se\\Lejjandro_Sten, sax, p\u00E5se\\Program.cs",
+              "ToolTip": "C:\\Users\\Axevalla\\Desktop\\lejjandro\\axevalla-programmering-grund\\Uppgift 08 - Sten, sax, p\u00E5se\\Lejjandro_Sten, sax, p\u00E5se\\Lejjandro_Sten, sax, p\u00E5se\\Program.cs",
               "RelativeToolTip": "Lejjandro_Sten, sax, p\u00E5se\\Program.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAgwFEAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwF0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T10:02:52.551Z",
               "EditorCaption": ""

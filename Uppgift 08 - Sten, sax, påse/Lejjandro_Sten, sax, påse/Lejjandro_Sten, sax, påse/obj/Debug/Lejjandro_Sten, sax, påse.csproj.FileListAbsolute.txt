@@ -6,3 +6,11 @@ C:\Users\Axevalla\Desktop\lejjandro\Lejjandro_Sten, sax, påse\Lejjandro_Sten, s
 C:\Users\Axevalla\Desktop\lejjandro\Lejjandro_Sten, sax, påse\Lejjandro_Sten, sax, påse\obj\Debug\Lejjandro_Sten, sax, påse.exe
 C:\Users\Axevalla\Desktop\lejjandro\Lejjandro_Sten, sax, påse\Lejjandro_Sten, sax, påse\obj\Debug\Lejjandro_Sten, sax, påse.pdb
 C:\Users\Axevalla\Desktop\lejjandro\Lejjandro_Sten, sax, påse\Lejjandro_Sten, sax, påse\obj\Debug\Lejjandro_Sten, sax, påse.exe.config
+C:\Users\Axevalla\Desktop\lejjandro\axevalla-programmering-grund\Uppgift 08 - Sten, sax, påse\Lejjandro_Sten, sax, påse\Lejjandro_Sten, sax, påse\bin\Debug\Lejjandro_Sten, sax, påse.exe.config
+C:\Users\Axevalla\Desktop\lejjandro\axevalla-programmering-grund\Uppgift 08 - Sten, sax, påse\Lejjandro_Sten, sax, påse\Lejjandro_Sten, sax, påse\bin\Debug\Lejjandro_Sten, sax, påse.exe
+C:\Users\Axevalla\Desktop\lejjandro\axevalla-programmering-grund\Uppgift 08 - Sten, sax, påse\Lejjandro_Sten, sax, påse\Lejjandro_Sten, sax, påse\bin\Debug\Lejjandro_Sten, sax, påse.pdb
+C:\Users\Axevalla\Desktop\lejjandro\axevalla-programmering-grund\Uppgift 08 - Sten, sax, påse\Lejjandro_Sten, sax, påse\Lejjandro_Sten, sax, påse\obj\Debug\Lejjandro_Sten, sax, påse.csproj.AssemblyReference.cache
+C:\Users\Axevalla\Desktop\lejjandro\axevalla-programmering-grund\Uppgift 08 - Sten, sax, påse\Lejjandro_Sten, sax, påse\Lejjandro_Sten, sax, påse\obj\Debug\Lejjandro_Sten, sax, påse.exe.config
+C:\Users\Axevalla\Desktop\lejjandro\axevalla-programmering-grund\Uppgift 08 - Sten, sax, påse\Lejjandro_Sten, sax, påse\Lejjandro_Sten, sax, påse\obj\Debug\Lejjandro_Sten, sax, påse.csproj.CoreCompileInputs.cache
+C:\Users\Axevalla\Desktop\lejjandro\axevalla-programmering-grund\Uppgift 08 - Sten, sax, påse\Lejjandro_Sten, sax, påse\Lejjandro_Sten, sax, påse\obj\Debug\Lejjandro_Sten, sax, påse.exe
+C:\Users\Axevalla\Desktop\lejjandro\axevalla-programmering-grund\Uppgift 08 - Sten, sax, påse\Lejjandro_Sten, sax, påse\Lejjandro_Sten, sax, påse\obj\Debug\Lejjandro_Sten, sax, påse.pdb
