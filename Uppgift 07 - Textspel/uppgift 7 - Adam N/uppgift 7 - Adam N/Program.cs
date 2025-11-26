@@ -20,9 +20,9 @@ namespace uppgift_7___Adam_N
             string Sword = "Sword";
             string Hammer = "Hammer";
             string WeaponChoice;
-            int pMaxDamage;
-            int pMinDamage;
-            int PlayerDamage;
+            int pMaxDamage = 0;
+            int pMinDamage = 0;
+            int PlayerDamage = 0;
             int EnemyHP = 75;
             int eMaxDamage = 25;
             int eMinDamage = 5;
@@ -50,31 +50,38 @@ namespace uppgift_7___Adam_N
                 if (WeaponChoice.ToLower() == "axe")
                 {
                     Console.WriteLine ("Du valde " + WeaponChoice);
-                    break;
+                    pMinDamage = 8;
+                    pMaxDamage = 14;
+                    
                 }
 
                 else if (WeaponChoice.ToLower() == "sword")
                 {
                     Console.WriteLine("Du valde " + WeaponChoice);
-                    break;
+                    pMinDamage = 10;
+                    pMaxDamage = 12;
+                    
                 }
 
                 else if (WeaponChoice.ToLower() == "hammer")
                 {
                     Console.WriteLine("Du valde " + WeaponChoice);
-                    break;
+                    pMinDamage = 4;
+                    pMaxDamage = 16;
+                    
                 }
 
-
-
+                
+                PlayerDamage = rnd.Next(pMinDamage, pMaxDamage);
+                Console.WriteLine ("Du gjorde " + PlayerDamage);
             }
 
-            if (PlayerHP <= 0 == true)
+            if (PlayerHP <= 0 && EnemyHP >=1 == true)
             {
                 Console.WriteLine("Du förlorade");
             }
 
-            else if (PlayerHP <= 0 == false)
+            else if (PlayerHP >= 0 && EnemyHP <= 0== false)
             {
                 Console.WriteLine("Du vann!");
             }
