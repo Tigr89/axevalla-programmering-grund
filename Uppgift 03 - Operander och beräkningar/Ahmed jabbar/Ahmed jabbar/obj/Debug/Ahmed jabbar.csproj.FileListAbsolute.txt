@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\Ahmed\axevalla-programmering-grund\Uppgift 03 - Operander och beräkningar\Ahmed jabbar\Ahmed jabbar\bin\Debug\Ahmed jabbar.exe.config
+C:\Users\Admin\Documents\Ahmed\axevalla-programmering-grund\Uppgift 03 - Operander och beräkningar\Ahmed jabbar\Ahmed jabbar\bin\Debug\Ahmed jabbar.exe
+C:\Users\Admin\Documents\Ahmed\axevalla-programmering-grund\Uppgift 03 - Operander och beräkningar\Ahmed jabbar\Ahmed jabbar\bin\Debug\Ahmed jabbar.pdb
+C:\Users\Admin\Documents\Ahmed\axevalla-programmering-grund\Uppgift 03 - Operander och beräkningar\Ahmed jabbar\Ahmed jabbar\obj\Debug\Ahmed jabbar.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Ahmed\axevalla-programmering-grund\Uppgift 03 - Operander och beräkningar\Ahmed jabbar\Ahmed jabbar\obj\Debug\Ahmed jabbar.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Ahmed\axevalla-programmering-grund\Uppgift 03 - Operander och beräkningar\Ahmed jabbar\Ahmed jabbar\obj\Debug\Ahmed jabbar.exe
+C:\Users\Admin\Documents\Ahmed\axevalla-programmering-grund\Uppgift 03 - Operander och beräkningar\Ahmed jabbar\Ahmed jabbar\obj\Debug\Ahmed jabbar.pdb
+C:\Users\Admin\Documents\Ahmed\axevalla-programmering-grund\Uppgift 03 - Operander och beräkningar\Ahmed jabbar\Ahmed jabbar\obj\Debug\Ahmed jabbar.exe.config

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\Ahmed\\axevalla-programmering-grund\\Uppgift 02 - Output\\ahmed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8CA4DA-44DB-4FC7-8A60-6F3BC3A65E46}|ahmed\\ahmed.csproj|c:\\users\\admin\\documents\\ahmed\\axevalla-programmering-grund\\uppgift 02 - output\\ahmed\\ahmed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8CA4DA-44DB-4FC7-8A60-6F3BC3A65E46}|ahmed\\ahmed.csproj|solutionrelative:ahmed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Ahmed\\axevalla-programmering-grund\\Uppgift 02 - Output\\ahmed\\ahmed\\Program.cs",
+              "RelativeDocumentMoniker": "ahmed\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Ahmed\\axevalla-programmering-grund\\Uppgift 02 - Output\\ahmed\\ahmed\\Program.cs",
+              "RelativeToolTip": "ahmed\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T09:29:32.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
