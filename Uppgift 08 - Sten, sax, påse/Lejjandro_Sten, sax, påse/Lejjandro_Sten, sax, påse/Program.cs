@@ -55,32 +55,26 @@ namespace Lejjandro_Sten__sax__påse
                 Console.WriteLine("Ja eller Nej?");
                 val1 = Console.ReadLine();
 
-                do
+                switch (val1.ToLower())
                 {
+                 
+                    case "ja":
+                        Console.WriteLine(userName + ", hur många poäng vill du satsa?");
+                        playerBet = int.Parse(Console.ReadLine());
+                        gameloop = true;
+                        break;
 
-                
+                    case "nej":
+                        Console.WriteLine("Okej, du satsar inga poäng denna runda.");
+                        gameloop = false;
+                        break;
                 }
 
-                while (playerBet > playerSaldo);
+                while (playerBet > playerSaldo)
                 {
                     Console.WriteLine("Du kan inte satsa mer poäng än du har. Försök igen.");
-                    Console.WriteLine(userName + ", hur många poäng vill du satsa?");
-                
-                    switch (val1.ToLower())
-                    {
-                 
-                        case "ja":
-                            Console.WriteLine(userName + ", hur många poäng vill du satsa?");
-                            playerBet = int.Parse(Console.ReadLine());
-                            gameloop = true;
-                            break;
-
-                        case "nej":
-                            Console.WriteLine("Okej, du satsar inga poäng denna runda.");
-                            gameloop = false;
-                            break;
-                    }
-
+                    gameloop = false;
+                    break ;
                 }
 
 
@@ -181,12 +175,6 @@ namespace Lejjandro_Sten__sax__påse
                         playerSaldo += computerBet;
                         computerSaldo -= computerBet;
                     }
-
-
-
-
-
-
 
                     if (playerSaldo <= 0)
                     {
