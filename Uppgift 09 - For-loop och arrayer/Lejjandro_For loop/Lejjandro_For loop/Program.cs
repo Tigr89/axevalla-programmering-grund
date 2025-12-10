@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
@@ -14,8 +15,11 @@ namespace Lejjandro_For_loop
             string[] name = new string[3];
 
             int val1;
+            bool T = true;
             
             Console.WriteLine("Kan du namnge 3 kända personen?");
+            Console.ReadLine();
+            Console.WriteLine("Den första ska vara?");
 
             name[0] = Console.ReadLine();
 
@@ -27,23 +31,40 @@ namespace Lejjandro_For_loop
 
             name[2] = Console.ReadLine();
 
-            Console.WriteLine("Sök efter en person genom att skriva i en siffra. skriv 0 om du vill lista alla personer");
-            val1 = int.Parse(Console.ReadLine());
 
-            switch (val1)
+            while (T) 
             {
-                case 0:
-                    for (int i = 0; i <= name.Length; i++)
-                    {
+                Console.WriteLine("Sök efter en person genom att skriva i en siffra från 1 till " + name.Length + ". skriv 0 om du vill lista alla personer");
+                val1 = int.Parse(Console.ReadLine());
 
-                    }
-                    break;
+                switch (val1)
+                {
+                    case 0:
+                        for (int i = 0; i < name.Length; i++)
+                        {
+                            Console.WriteLine("person " + (i + 1) + ":" + name[i]);
+                        }
+                        break;
 
-                case 1:
-                    break;
+                    case 1:
+                        Console.WriteLine("Du söker efter " + name[0]);
+                        T = false;
+                        break;
+                    
+                    case 2:
+                        Console.WriteLine("Du söker efter " + name[1]);
+                        T = false;
+                        break;
 
-                case 2:
-                    break;
+                    case 3:
+                        Console.WriteLine("Du söker efter " + name[2]);
+                        T = false;
+                        break;
+
+                    default:
+                        Console.WriteLine("Sök efter en person genom att skriva i en siffra från 1 till 3. skriv 0 om du vill lista alla personer");
+                        break;
+                }
             }
         }
     }

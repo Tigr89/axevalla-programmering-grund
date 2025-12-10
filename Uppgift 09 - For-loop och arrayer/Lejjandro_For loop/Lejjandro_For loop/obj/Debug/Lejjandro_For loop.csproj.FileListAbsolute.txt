@@ -6,3 +6,11 @@ C:\Users\Axevalla\Desktop\lejjandro\Lejjandro_For loop\Lejjandro_For loop\obj\De
 C:\Users\Axevalla\Desktop\lejjandro\Lejjandro_For loop\Lejjandro_For loop\obj\Debug\Lejjandro_For loop.exe
 C:\Users\Axevalla\Desktop\lejjandro\Lejjandro_For loop\Lejjandro_For loop\obj\Debug\Lejjandro_For loop.pdb
 C:\Users\Axevalla\Desktop\lejjandro\Lejjandro_For loop\Lejjandro_For loop\obj\Debug\Lejjandro_For loop.exe.config
+C:\Users\Axevalla\Desktop\lejjandro\axevalla-programmering-grund\Uppgift 09 - For-loop och arrayer\Lejjandro_For loop\Lejjandro_For loop\bin\Debug\Lejjandro_For loop.exe.config
+C:\Users\Axevalla\Desktop\lejjandro\axevalla-programmering-grund\Uppgift 09 - For-loop och arrayer\Lejjandro_For loop\Lejjandro_For loop\bin\Debug\Lejjandro_For loop.exe
+C:\Users\Axevalla\Desktop\lejjandro\axevalla-programmering-grund\Uppgift 09 - For-loop och arrayer\Lejjandro_For loop\Lejjandro_For loop\bin\Debug\Lejjandro_For loop.pdb
+C:\Users\Axevalla\Desktop\lejjandro\axevalla-programmering-grund\Uppgift 09 - For-loop och arrayer\Lejjandro_For loop\Lejjandro_For loop\obj\Debug\Lejjandro_For loop.csproj.AssemblyReference.cache
+C:\Users\Axevalla\Desktop\lejjandro\axevalla-programmering-grund\Uppgift 09 - For-loop och arrayer\Lejjandro_For loop\Lejjandro_For loop\obj\Debug\Lejjandro_For loop.exe.config
+C:\Users\Axevalla\Desktop\lejjandro\axevalla-programmering-grund\Uppgift 09 - For-loop och arrayer\Lejjandro_For loop\Lejjandro_For loop\obj\Debug\Lejjandro_For loop.csproj.CoreCompileInputs.cache
+C:\Users\Axevalla\Desktop\lejjandro\axevalla-programmering-grund\Uppgift 09 - For-loop och arrayer\Lejjandro_For loop\Lejjandro_For loop\obj\Debug\Lejjandro_For loop.exe
+C:\Users\Axevalla\Desktop\lejjandro\axevalla-programmering-grund\Uppgift 09 - For-loop och arrayer\Lejjandro_For loop\Lejjandro_For loop\obj\Debug\Lejjandro_For loop.pdb
