@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.NetworkInformation;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -66,24 +67,36 @@ namespace uppgift_7___Adam_N
                 else if (WeaponChoice.ToLower() == "hammer")
                 {
                     Console.WriteLine("Du valde " + WeaponChoice);
-                    pMinDamage = 4;
+                    pMinDamage = 6;
                     pMaxDamage = 16;
                     
                 }
+                
 
                 
                 PlayerDamage = rnd.Next(pMinDamage, pMaxDamage);
-                Console.WriteLine ("Du gjorde " + PlayerDamage);
+                EnemyDamage = rnd.Next(eMinDamage, eMaxDamage);
+                Console.WriteLine ("Du gjorde " + PlayerDamage + " Damage och fienden gjorde " + EnemyDamage + " Damage");
+
+                EnemyHP = EnemyHP - PlayerDamage;
+                PlayerHP = PlayerHP - EnemyDamage;
             }
 
-            if (PlayerHP <= 0 && EnemyHP >=1 == true)
+
+
+            if (PlayerHP <= 0 && EnemyHP >= 1)
             {
                 Console.WriteLine("Du förlorade");
             }
 
-            else if (PlayerHP >= 0 && EnemyHP <= 0== false)
+            else if (PlayerHP > 0 && EnemyHP <= 0)
             {
-                Console.WriteLine("Du vann!");
+                Console.WriteLine("Du vann! med " + PlayerHP +" hp kvar");
+            }
+
+            else if (PlayerHP <= 0 && EnemyHP <= 0)
+            {
+                Console.WriteLine("ni båda dog...");
             }
         }
         

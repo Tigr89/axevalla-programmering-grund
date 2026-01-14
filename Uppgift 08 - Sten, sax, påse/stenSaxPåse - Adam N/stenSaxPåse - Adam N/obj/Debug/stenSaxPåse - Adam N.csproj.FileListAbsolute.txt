@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 08 - Sten, sax, påse\stenSaxPåse - Adam N\stenSaxPåse - Adam N\bin\Debug\stenSaxPåse - Adam N.exe.config
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 08 - Sten, sax, påse\stenSaxPåse - Adam N\stenSaxPåse - Adam N\bin\Debug\stenSaxPåse - Adam N.exe
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 08 - Sten, sax, påse\stenSaxPåse - Adam N\stenSaxPåse - Adam N\bin\Debug\stenSaxPåse - Adam N.pdb
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 08 - Sten, sax, påse\stenSaxPåse - Adam N\stenSaxPåse - Adam N\obj\Debug\stenSaxPåse - Adam N.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 08 - Sten, sax, påse\stenSaxPåse - Adam N\stenSaxPåse - Adam N\obj\Debug\stenSaxPåse - Adam N.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 08 - Sten, sax, påse\stenSaxPåse - Adam N\stenSaxPåse - Adam N\obj\Debug\stenSaxPåse - Adam N.exe
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 08 - Sten, sax, påse\stenSaxPåse - Adam N\stenSaxPåse - Adam N\obj\Debug\stenSaxPåse - Adam N.pdb
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 08 - Sten, sax, påse\stenSaxPåse - Adam N\stenSaxPåse - Adam N\obj\Debug\stenSaxPåse - Adam N.exe.config
