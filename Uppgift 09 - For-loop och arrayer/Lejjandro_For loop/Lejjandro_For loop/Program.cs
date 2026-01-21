@@ -35,7 +35,22 @@ namespace Lejjandro_For_loop
             while (T) 
             {
                 Console.WriteLine("Sök efter en person genom att skriva i en siffra från 1 till " + name.Length + ". skriv 0 om du vill lista alla personer");
-                val1 = int.Parse(Console.ReadLine());
+                string test;
+                
+                
+                test= Console.ReadLine();
+                
+                
+                while (int.TryParse(test, out int number) == false)
+                {
+                    Console.WriteLine("Skriva en siffra mellan 1 och 3");
+                    test = Console.ReadLine();
+                }
+                
+                
+                
+                
+                val1 = int.Parse(test);
 
                 switch (val1)
                 {
@@ -62,7 +77,7 @@ namespace Lejjandro_For_loop
                         break;
 
                     default:
-                        Console.WriteLine("Sök efter en person genom att skriva i en siffra från 1 till 3. skriv 0 om du vill lista alla personer");
+                        Console.WriteLine("du kan inte skriva den siffran");
                         break;
                 }
             }
