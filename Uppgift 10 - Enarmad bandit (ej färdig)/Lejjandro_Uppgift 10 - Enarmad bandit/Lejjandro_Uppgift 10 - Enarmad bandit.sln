@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lejjandro_Uppgift 10 - Enarmad bandit", "Lejjandro_Uppgift 10 - Enarmad bandit\Lejjandro_Uppgift 10 - Enarmad bandit.csproj", "{1E6BE9F2-4726-4F3F-876F-91C291C652E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E6BE9F2-4726-4F3F-876F-91C291C652E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E6BE9F2-4726-4F3F-876F-91C291C652E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E6BE9F2-4726-4F3F-876F-91C291C652E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E6BE9F2-4726-4F3F-876F-91C291C652E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FC253E8-7917-48D5-9230-4016C9FA2B39}
+	EndGlobalSection
+EndGlobal

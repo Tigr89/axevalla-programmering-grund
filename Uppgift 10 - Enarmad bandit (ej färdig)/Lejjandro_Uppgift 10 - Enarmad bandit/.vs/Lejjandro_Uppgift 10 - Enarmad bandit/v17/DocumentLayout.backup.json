@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Axevalla\\Desktop\\lejjandro\\axevalla-programmering-grund\\Uppgift 10 - Enarmad bandit (ej f\u00E4rdig)\\Lejjandro_Uppgift 10 - Enarmad bandit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E6BE9F2-4726-4F3F-876F-91C291C652E3}|Lejjandro_Uppgift 10 - Enarmad bandit\\Lejjandro_Uppgift 10 - Enarmad bandit.csproj|c:\\users\\axevalla\\desktop\\lejjandro\\axevalla-programmering-grund\\uppgift 10 - enarmad bandit (ej f\u00E4rdig)\\lejjandro_uppgift 10 - enarmad bandit\\lejjandro_uppgift 10 - enarmad bandit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E6BE9F2-4726-4F3F-876F-91C291C652E3}|Lejjandro_Uppgift 10 - Enarmad bandit\\Lejjandro_Uppgift 10 - Enarmad bandit.csproj|solutionrelative:lejjandro_uppgift 10 - enarmad bandit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Axevalla\\Desktop\\lejjandro\\axevalla-programmering-grund\\Uppgift 10 - Enarmad bandit (ej f\u00E4rdig)\\Lejjandro_Uppgift 10 - Enarmad bandit\\Lejjandro_Uppgift 10 - Enarmad bandit\\Program.cs",
+              "RelativeDocumentMoniker": "Lejjandro_Uppgift 10 - Enarmad bandit\\Program.cs",
+              "ToolTip": "C:\\Users\\Axevalla\\Desktop\\lejjandro\\axevalla-programmering-grund\\Uppgift 10 - Enarmad bandit (ej f\u00E4rdig)\\Lejjandro_Uppgift 10 - Enarmad bandit\\Lejjandro_Uppgift 10 - Enarmad bandit\\Program.cs",
+              "RelativeToolTip": "Lejjandro_Uppgift 10 - Enarmad bandit\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T09:33:19.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
