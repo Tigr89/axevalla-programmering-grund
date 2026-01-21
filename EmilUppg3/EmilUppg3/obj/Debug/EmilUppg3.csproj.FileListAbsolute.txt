@@ -1,0 +1,8 @@
+C:\Users\Axevalla\Documents\Emil W\EmilUppg3\EmilUppg3\bin\Debug\EmilUppg3.exe.config
+C:\Users\Axevalla\Documents\Emil W\EmilUppg3\EmilUppg3\bin\Debug\EmilUppg3.exe
+C:\Users\Axevalla\Documents\Emil W\EmilUppg3\EmilUppg3\bin\Debug\EmilUppg3.pdb
+C:\Users\Axevalla\Documents\Emil W\EmilUppg3\EmilUppg3\obj\Debug\EmilUppg3.csproj.AssemblyReference.cache
+C:\Users\Axevalla\Documents\Emil W\EmilUppg3\EmilUppg3\obj\Debug\EmilUppg3.csproj.CoreCompileInputs.cache
+C:\Users\Axevalla\Documents\Emil W\EmilUppg3\EmilUppg3\obj\Debug\EmilUppg3.exe
+C:\Users\Axevalla\Documents\Emil W\EmilUppg3\EmilUppg3\obj\Debug\EmilUppg3.pdb
+C:\Users\Axevalla\Documents\Emil W\EmilUppg3\EmilUppg3\obj\Debug\EmilUppg3.exe.config
