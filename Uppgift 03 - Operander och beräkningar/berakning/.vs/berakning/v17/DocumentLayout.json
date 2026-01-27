@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\berakning\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\axevalla-programmering-grund\\Uppgift 03 - Operander och ber\u00E4kningar\\berakning\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90FA9648-2449-4445-A907-4259947E38C0}|berakning\\berakning.csproj|c:\\users\\admin\\source\\repos\\berakning\\berakning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90FA9648-2449-4445-A907-4259947E38C0}|berakning\\berakning.csproj|c:\\users\\admin\\desktop\\axevalla-programmering-grund\\uppgift 03 - operander och ber\u00E4kningar\\berakning\\berakning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90FA9648-2449-4445-A907-4259947E38C0}|berakning\\berakning.csproj|solutionrelative:berakning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\berakning\\berakning\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\axevalla-programmering-grund\\Uppgift 03 - Operander och ber\u00E4kningar\\berakning\\berakning\\Program.cs",
               "RelativeDocumentMoniker": "berakning\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\berakning\\berakning\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\axevalla-programmering-grund\\Uppgift 03 - Operander och ber\u00E4kningar\\berakning\\berakning\\Program.cs",
               "RelativeToolTip": "berakning\\Program.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAAAFIAAAB7AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFIAAAB7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T08:39:37.295Z",
               "EditorCaption": ""

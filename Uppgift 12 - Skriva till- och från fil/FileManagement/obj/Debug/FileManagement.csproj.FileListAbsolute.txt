@@ -12,3 +12,11 @@ E:\Unity Projects\axevalla-programmering-grund\Uppgift 12 - Skriva till- och fr�
 E:\Unity Projects\axevalla-programmering-grund\Uppgift 12 - Skriva till- och från fil\FileManagement\obj\Debug\FileManagement.csproj.CoreCompileInputs.cache
 E:\Unity Projects\axevalla-programmering-grund\Uppgift 12 - Skriva till- och från fil\FileManagement\obj\Debug\FileManagement.exe
 E:\Unity Projects\axevalla-programmering-grund\Uppgift 12 - Skriva till- och från fil\FileManagement\obj\Debug\FileManagement.pdb
+C:\Users\Admin\Desktop\axevalla-programmering-grund\Uppgift 12 - Skriva till- och från fil\FileManagement\bin\Debug\FileManagement.exe.config
+C:\Users\Admin\Desktop\axevalla-programmering-grund\Uppgift 12 - Skriva till- och från fil\FileManagement\bin\Debug\FileManagement.exe
+C:\Users\Admin\Desktop\axevalla-programmering-grund\Uppgift 12 - Skriva till- och från fil\FileManagement\bin\Debug\FileManagement.pdb
+C:\Users\Admin\Desktop\axevalla-programmering-grund\Uppgift 12 - Skriva till- och från fil\FileManagement\obj\Debug\FileManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\axevalla-programmering-grund\Uppgift 12 - Skriva till- och från fil\FileManagement\obj\Debug\FileManagement.exe.config
+C:\Users\Admin\Desktop\axevalla-programmering-grund\Uppgift 12 - Skriva till- och från fil\FileManagement\obj\Debug\FileManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\axevalla-programmering-grund\Uppgift 12 - Skriva till- och från fil\FileManagement\obj\Debug\FileManagement.exe
+C:\Users\Admin\Desktop\axevalla-programmering-grund\Uppgift 12 - Skriva till- och från fil\FileManagement\obj\Debug\FileManagement.pdb
