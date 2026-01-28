@@ -29,6 +29,9 @@ namespace ConsoleApp1
             int gachamachinechoice3 = 0;
             string[] gachamachine3 = new string[3];
             string gachamachineresult3 = "";
+            bool[] gachaROWcolour = new bool[3];
+            bool[] gachaROWcolour2 = new bool[3];
+            bool[] gachaROWcolour3 = new bool[3];
 
             Console.WriteLine("welcome to the game");
             
@@ -54,12 +57,15 @@ namespace ConsoleApp1
                 Console.ResetColor();
                 DiagonalCheck();
                 Console.ResetColor();
+                PrintGacha();
                 Console.WriteLine("");
-               
+                Resetbools();
 
-                
 
-                
+
+
+
+
 
 
                 if (win == false)  
@@ -95,9 +101,14 @@ namespace ConsoleApp1
 
             void DiagonalCheck()
             {
-                Console.BackgroundColor = ConsoleColor.Gray;
+                Console.BackgroundColor = ConsoleColor.Cyan;
                 if (gachamachine[0] == gachamachine2[1] && gachamachine[0] == gachamachine3[2])
                 {
+                    //colour 
+                    gachaROWcolour[0] = true;
+                    gachaROWcolour2[1] = true;
+                    gachaROWcolour3[2] = true;  
+
                     Console.WriteLine("you win");
                     saldo = saldo + bet;
                     gains = saldo + bet;
@@ -106,6 +117,9 @@ namespace ConsoleApp1
                 }
                 if (gachamachine[2] == gachamachine2[1] && gachamachine[2] == gachamachine3[0])
                 {
+                    gachaROWcolour[0] = true;
+                    gachaROWcolour2[1] = true;
+                    gachaROWcolour3[2] = true;
                     Console.WriteLine("you win");
                     saldo = saldo + bet;
                     gains = saldo + bet;
@@ -119,6 +133,10 @@ namespace ConsoleApp1
                 Console.BackgroundColor = ConsoleColor.DarkGreen;
                 if (gachamachine[0] == gachamachine2[0] && gachamachine[0] == gachamachine3[0])
                 {
+                    gachaROWcolour[0] = true;
+                    gachaROWcolour2[0] = true;
+                    gachaROWcolour3[0] = true;
+
                     Console.WriteLine("you win");
                     saldo = saldo + bet;
                     gains = saldo + bet;
@@ -127,6 +145,10 @@ namespace ConsoleApp1
                 }
                 if (gachamachine[1] == gachamachine2[1] && gachamachine[1] == gachamachine3[1])
                 {
+                    gachaROWcolour[1] = true;
+                    gachaROWcolour2[1] = true;
+                    gachaROWcolour3[1] = true;
+
                     Console.WriteLine("you win");
                     saldo = saldo + bet;
                     gains = saldo + bet;
@@ -135,6 +157,10 @@ namespace ConsoleApp1
                 }
                 if (gachamachine[2] == gachamachine2[2] && gachamachine[2] == gachamachine3[2])
                 {
+                    gachaROWcolour[2] = true;
+                    gachaROWcolour2[2] = true;
+                    gachaROWcolour3[2] = true;
+
                     Console.WriteLine("you win");
                     saldo = saldo + bet;
                     gains = saldo + bet;
@@ -153,22 +179,27 @@ namespace ConsoleApp1
 
                     if (gachamachinechoice == 1)
                     {
+                        
                         gachamachine[i] = "y";
-                        Console.Write(gachamachine[i]);
+                      
                     }
-
+              
                     if (gachamachinechoice == 2)
                     {
+                       
                         gachamachine[i] = "x";
-                        Console.Write(gachamachine[i]);
+              
 
                     }
+                  
                     if (gachamachinechoice == 3)
                     {
+                        
                         gachamachine[i] = "z";
-                        Console.Write(gachamachine[i]);
+             
 
                     }
+                  
 
                     gachamachineresult += gachamachine[i];
 
@@ -182,17 +213,17 @@ namespace ConsoleApp1
                     if (gachamachinechoice2 == 1)
                     {
                         gachamachine2[i] = "y";
-                        Console.Write(gachamachine2[i]);
+                      
                     }
                     if (gachamachinechoice2 == 2)
                     {
                         gachamachine2[i] = "x";
-                        Console.Write(gachamachine2[i]);
+             
                     }
                     if (gachamachinechoice2 == 3)
                     {
                         gachamachine2[i] = "z";
-                        Console.Write(gachamachine2[i]);
+        
                     }
                     gachamachineresult2 += gachamachine2[i];
                 }
@@ -203,21 +234,22 @@ namespace ConsoleApp1
                     if (gachamachinechoice3 == 1)
                     {
                         gachamachine3[i] = "y";
-                        Console.Write(gachamachine3[i]);
+    
                     }
                     if (gachamachinechoice3 == 2)
                     {
                         gachamachine3[i] = "x";
-                        Console.Write(gachamachine3[i]);
+
                     }
                     if (gachamachinechoice3 == 3)
                     {
                         gachamachine3[i] = "z";
-                        Console.Write(gachamachine3[i]);
+             
                     }
                     gachamachineresult3 += gachamachine3[i];
                 }
                 Console.WriteLine("");
+                
 
             }
             
@@ -226,15 +258,23 @@ namespace ConsoleApp1
                 Console.BackgroundColor = ConsoleColor.Magenta;
                 if (gachamachineresult == "xxx" || gachamachineresult == "yyy" || gachamachineresult == "zzz")
                 {
+                    gachaROWcolour[0] = true;
+                    gachaROWcolour[1] = true;
+                    gachaROWcolour[2] = true;
+
                     Console.WriteLine("you win");
                     saldo = saldo + bet;
                     gains = saldo + bet;
                     winnings = winnings + bet;
                     win = true;
                 }
-                //Console.WriteLine("");
+                
                 if (gachamachineresult2 == "xxx" || gachamachineresult2 == "yyy" || gachamachineresult2 == "zzz")
                 {
+                    gachaROWcolour2[0] = true;
+                    gachaROWcolour2[1] = true;
+                    gachaROWcolour2[2] = true;
+
                     Console.WriteLine("you win");
                     saldo = saldo + bet;
                     gains = saldo + bet;
@@ -243,6 +283,10 @@ namespace ConsoleApp1
                 }
                 if (gachamachineresult3 == "xxx" || gachamachineresult3 == "yyy" || gachamachineresult3 == "zzz")
                 {
+                    gachaROWcolour3[0] = true;
+                    gachaROWcolour3[1] = true;
+                    gachaROWcolour3[2] = true;
+
                     Console.WriteLine("you win");
                     saldo = saldo + bet;
                     gains = saldo + bet;
@@ -251,9 +295,78 @@ namespace ConsoleApp1
 
                 }
             }
+
+            void PrintGacha()
+            {
+                for (int i = 0; i < gachamachine.Length; i++)
+                {
+                    if (gachaROWcolour[i] == true)
+                    {
+                        Console.BackgroundColor = ConsoleColor.Red;
+                        Console.Write(gachamachine[i]);
+                        Console.ResetColor();
+                    }
+                    else
+                    {
+                        Console.Write(gachamachine[i]);
+                    }
+                        
+                }
+                Console.WriteLine("");
+                for (int i = 0; i < gachamachine2.Length; i++)
+                {
+                    if (gachaROWcolour2[i] == true)
+                    {
+                        Console.BackgroundColor = ConsoleColor.Red;
+                        Console.Write(gachamachine2[i]);
+                        Console.ResetColor();
+                    }
+                    else
+                    {
+                        Console.Write(gachamachine2[i]);
+                    }
+
+                }
+                Console.WriteLine("");
+                for (int i = 0; i < gachamachine3.Length; i++)
+                {
+                    if (gachaROWcolour3[i] == true)
+                    {
+                        Console.BackgroundColor = ConsoleColor.Red;
+                        Console.Write(gachamachine3[i]);
+                        Console.ResetColor();
+                    }
+                    else
+                    {
+                        Console.Write(gachamachine3[i]);
+                    }
+
+                }
+
+
+
+            }
+
+            void Resetbools()
+            {
+                for (int i = 0; i < gachaROWcolour.Length; i++)
+                {
+                    gachaROWcolour[i] = false;
+                }
+
+            }
+            for (int i = 0; i < gachaROWcolour2.Length; i++)
+            {
+                gachaROWcolour2[i] = false;
+            }
+            for (int i = 0; i < gachaROWcolour3.Length; i++)
+            {
+                gachaROWcolour3[i] = false;
+            }
+
         }
 
-        
+
 
     }
 }
