@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Threading;
 
 namespace Lejjandro_Uppgift_10___Enarmad_bandit
 {
@@ -54,7 +55,19 @@ namespace Lejjandro_Uppgift_10___Enarmad_bandit
 
             while (playerSaldo >= 10 && playerSaldo < 1000)
             {
+                bool gameloop = false;
+
                 Console.WriteLine(userName + " du har " + playerSaldo + " kr " + " i din konto");
+                Console.ReadLine();
+                Console.WriteLine("Nu jag ska förklara regel av slot machine");
+
+                while (playerBet > playerSaldo)
+                {
+                    Console.WriteLine("Du kan inte satsar mer pengar än vad du har i ditt konto");
+                    gameloop = false;
+                }
+
+
             }
         }
     }
