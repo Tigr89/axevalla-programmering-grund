@@ -6,3 +6,11 @@ C:\Users\Axevalla\Desktop\Emil W\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCo
 C:\Users\Axevalla\Desktop\Emil W\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\Axevalla\Desktop\Emil W\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
 C:\Users\Axevalla\Desktop\Emil W\ConsoleApp1\obj\Debug\ConsoleApp1.exe.config
+C:\Users\Axevalla\Documents\Emil W\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Axevalla\Documents\Emil W\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Axevalla\Documents\Emil W\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Axevalla\Documents\Emil W\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Axevalla\Documents\Emil W\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\ConsoleApp1\obj\Debug\ConsoleApp1.exe.config
+C:\Users\Axevalla\Documents\Emil W\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Axevalla\Documents\Emil W\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Axevalla\Documents\Emil W\axevalla-programmering-grund\Uppgift 04 - Villkorssatser\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

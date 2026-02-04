@@ -12,10 +12,12 @@ namespace Emiluppg5
         {
             int saldo = 100;
             int val = 0;
-            
+
+            Console.WriteLine("välj mellan glass 1 för 10kr, 2 för 20kr och 3 för 30kr du har " + saldo + " kr");
+
             while (saldo > 0)
             {
-                Console.WriteLine("välj mellan glass 1 för 10kr, 2 för 20kr och 3 för 30kr");
+
                 val = Convert.ToInt32(Console.ReadLine());
                 if (val == 1)
                 {
