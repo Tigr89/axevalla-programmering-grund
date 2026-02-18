@@ -354,15 +354,17 @@ namespace ConsoleApp1
                     gachaROWcolour[i] = false;
                 }
 
+                for (int i = 0; i < gachaROWcolour2.Length; i++)
+                {
+                    gachaROWcolour2[i] = false;
+                }
+                for (int i = 0; i < gachaROWcolour3.Length; i++)
+                {
+                    gachaROWcolour3[i] = false;
+                }
+
             }
-            for (int i = 0; i < gachaROWcolour2.Length; i++)
-            {
-                gachaROWcolour2[i] = false;
-            }
-            for (int i = 0; i < gachaROWcolour3.Length; i++)
-            {
-                gachaROWcolour3[i] = false;
-            }
+            
 
         }
 
