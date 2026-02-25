@@ -8,4 +8,5 @@ I den här uppgiften ska ni skapa en sorts databas genom att använda er av klas
 
 ## Användbara länkar:
 [W3 Schools: klasser och objekt](https://www.w3schools.com/cs/cs_classes.php)
+
 [W3 Schools: konstruktorer](https://www.w3schools.com/cs/cs_constructors.php)
