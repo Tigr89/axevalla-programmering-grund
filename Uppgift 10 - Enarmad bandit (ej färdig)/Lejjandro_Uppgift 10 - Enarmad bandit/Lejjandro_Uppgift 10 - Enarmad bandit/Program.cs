@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Threading;
 using Microsoft.SqlServer.Server;
+using System.Diagnostics.Eventing.Reader;
+using System.Web;
 
 namespace Lejjandro_Uppgift_10___Enarmad_bandit
 {
@@ -79,10 +81,6 @@ namespace Lejjandro_Uppgift_10___Enarmad_bandit
                 return randomValue;
             }
 
-            while (playerSaldo >= 10 && playerSaldo <= 1000)
-            {
-                bool gameloop = true;
-
                 Console.WriteLine(userName + " du har " + playerSaldo + " kr " + "i din konto");
                 Console.ReadLine();
                 Console.WriteLine("Nu jag ska förklara regel av slot machine");
@@ -93,50 +91,108 @@ namespace Lejjandro_Uppgift_10___Enarmad_bandit
                 Console.ReadLine();
                 Console.WriteLine("Ok, nu ska vi börja");
                 Console.ReadLine();
+            
+            while (playerSaldo >= 10 && playerSaldo <= 1000)
+            {
+                bool gameloop = true;
+
                 Console.WriteLine("Hur mycket pengar vill du satsar");
+                playerBet = CheckIntValue(Console.ReadLine(), "Hur mycket pengar vill du satsar");
 
-                string SlotFunction()
+                while (playerBet > playerSaldo)
                 {
-                    string returnString = "";
+                    Console.WriteLine("Du kan inte satsar mer pengar än vad du har i ditt konto");
+                    Console.ReadLine();
+                    Console.WriteLine(userName + ", du har " + playerSaldo + "kr i din konto");
+                    gameloop = false;
+                    playerBet = CheckIntValue(Console.ReadLine(), "Hur mycket pengar vill du satsar");
 
-                    for (int i = 0; i < slotSpin; i++)
-                    {
-                        randomSymbol[0] = RandomizedValue();
-                        randomSymbol[1] = RandomizedValue();
-                        randomSymbol[2] = RandomizedValue();
-
-                        returnString = randomSymbol[0] + randomSymbol[1] + randomSymbol[2];
-
-                        Console.Write(returnString);
-                        Thread.Sleep(80);
-                        Console.Clear();
-                        Thread.Sleep(80);
-
-                        
-                    }
-
-                    return returnString;
                 }
 
-                while (true)
+                while (gameloop == true)
                 {
                     slotResult = SlotFunction();
                     Console.WriteLine(slotResult);
 
                     if (slotResult == "777")
                     {
+                        playerSaldo = playerBet * 2;
                         Console.ForegroundColor = ConsoleColor.Yellow;
                         Console.WriteLine("BIG WIN");
                         Console.ResetColor();
                         Thread.Sleep(10000);
                     }
+                    if (slotResult == "&&&")
+                    {
+                        playerSaldo = playerBet + 100;
+                        Console.ForegroundColor = ConsoleColor.Red;
+                        Console.WriteLine("SMALL WIN");
+                        Console.ResetColor();
+                        Thread.Sleep(10000);
+                    }
+                    if (slotResult == "£££")
+                    {
+                        playerSaldo = playerBet + 50;
+                        Console.ForegroundColor = ConsoleColor.Blue;
+                        Console.WriteLine("SMALL WIN");
+                        Console.ResetColor();
+                        Thread.Sleep(10000);
+                    }
+                    else
+                    {
+                        playerSaldo = playerSaldo - playerBet;
+                        Console.WriteLine("You lost");
+                        Console.ReadLine();
+                        Console.Clear();
+                    }
                     break;
                 }
-                while (playerBet > playerSaldo)
+                Console.WriteLine(userName + ", du har " + playerSaldo + "kr kvar i din konto");
+                string val1;
+                Console.WriteLine("vill du fortsätta att spela?\nJa.\nNej.");
+                val1 = Console.ReadLine();
+                if (val1.ToLower() == "nej")
                 {
-                        Console.WriteLine("Du kan inte satsar mer pengar än vad du har i ditt konto");
-                        gameloop = false;
-                }   
+                    gameloop = false;
+                }
+            }
+
+            string SlotFunction()
+            {
+                string returnString = "";
+
+                for (int i = 0; i < slotSpin; i++)
+                {
+                    randomSymbol[0] = RandomizedValue();
+                    randomSymbol[1] = RandomizedValue();
+                    randomSymbol[2] = RandomizedValue();
+
+                    returnString = randomSymbol[0] + randomSymbol[1] + randomSymbol[2];
+
+                    Console.Write(returnString);
+                    Thread.Sleep(80);
+                    Console.Clear();
+                    Thread.Sleep(80);
+
+
+                }
+
+                return returnString;
+            }
+
+            int CheckIntValue (string valueToCheck, string errorText)
+            {
+                int returnValue;
+
+                while (int.TryParse(valueToCheck, out int number) == false)
+                {
+                    Console.WriteLine(errorText);
+                    valueToCheck = Console.ReadLine();
+                }
+
+                returnValue = int.Parse(valueToCheck);
+
+                return returnValue;
             }
         }
     }
