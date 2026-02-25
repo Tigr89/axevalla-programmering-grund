@@ -1,4 +1,4 @@
-Name: 
-Year of birth: 
-Favourite colour: 
-Favourite building in Axevalla Folkhögskola: 
+Name: Me
+Year of birth: 1405
+Favourite colour: rgb(215, 58, 253)
+Favourite building in Axevalla Folkhögskola: Idfk

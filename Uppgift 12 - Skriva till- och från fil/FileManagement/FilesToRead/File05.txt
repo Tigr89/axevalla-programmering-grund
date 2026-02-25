@@ -1,4 +1,4 @@
-Name: Bob Bobbington
-Year of birth: 1969
-Favourite colour: Bronze-magenta
-Favourite building in Axevalla Folkhögskola: Mässen
+Name: You
+Year of birth: 1852
+Favourite colour: rgb(153, 217, 14)
+Favourite building in Axevalla Folkhögskola: Not Mässen
