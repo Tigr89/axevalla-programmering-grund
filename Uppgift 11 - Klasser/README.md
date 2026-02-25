@@ -3,6 +3,6 @@
 Intro
 
 ## Uppgiftsbeskrivning
-
+[Uppgiftens flödesscehma]("klasser.drawio.pdf")
 Beskrivning
 
