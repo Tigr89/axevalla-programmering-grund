@@ -24,6 +24,7 @@ namespace Lejjandro_Uppgift_10___Enarmad_bandit
             int slotSpin = 8;
             string A;
             string slotResult = "";
+            bool gameloop = true;
 
             Console.WriteLine("Hej user, snälla skriv din namn.");
             userName = Console.ReadLine();
@@ -92,12 +93,13 @@ namespace Lejjandro_Uppgift_10___Enarmad_bandit
                 Console.WriteLine("Ok, nu ska vi börja");
                 Console.ReadLine();
             
-            while (playerSaldo >= 10 && playerSaldo <= 1000)
+            while (playerSaldo >= 10 && playerSaldo <= 1000 && gameloop == true)
             {
-                bool gameloop = true;
 
                 Console.WriteLine("Hur mycket pengar vill du satsar");
                 playerBet = CheckIntValue(Console.ReadLine(), "Hur mycket pengar vill du satsar");
+
+                gameloop = true;
 
                 while (playerBet > playerSaldo)
                 {
@@ -114,25 +116,27 @@ namespace Lejjandro_Uppgift_10___Enarmad_bandit
                     slotResult = SlotFunction();
                     Console.WriteLine(slotResult);
 
+                    slotResult = "777";
+
                     if (slotResult == "777")
                     {
-                        playerSaldo = playerBet * 2;
+                        playerSaldo += playerBet * 2;
                         Console.ForegroundColor = ConsoleColor.Yellow;
                         Console.WriteLine("BIG WIN");
                         Console.ResetColor();
                         Thread.Sleep(10000);
                     }
-                    if (slotResult == "&&&")
+                    else if (slotResult == "&&&")
                     {
-                        playerSaldo = playerBet + 100;
+                        playerSaldo += playerBet + 100;
                         Console.ForegroundColor = ConsoleColor.Red;
                         Console.WriteLine("SMALL WIN");
                         Console.ResetColor();
                         Thread.Sleep(10000);
                     }
-                    if (slotResult == "£££")
+                    else if (slotResult == "£££")
                     {
-                        playerSaldo = playerBet + 50;
+                        playerSaldo += playerBet + 50;
                         Console.ForegroundColor = ConsoleColor.Blue;
                         Console.WriteLine("SMALL WIN");
                         Console.ResetColor();
@@ -194,6 +198,8 @@ namespace Lejjandro_Uppgift_10___Enarmad_bandit
 
                 return returnValue;
             }
+            Console.WriteLine("Tack för ");
+
         }
     }
 }
