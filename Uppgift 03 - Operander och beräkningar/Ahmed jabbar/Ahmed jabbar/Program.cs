@@ -10,7 +10,7 @@ namespace Ahmed_jabbar
     {
         static void Main(string[] args)
         {
-            int datum = 2025;
+            int datum = 2026;
             int birth; 
             int age; 
             string person;
@@ -23,8 +23,29 @@ namespace Ahmed_jabbar
 
             age = datum - birth;
             Console.WriteLine("du heter " + person + " och du är " + age + " år gammal");
+            if (age < 13)
+            {
+                Console.WriteLine("du är ett barn");
 
-            //Nästa gång: gör en beräkning av datum och birth och spara i age!
+
+
+
+            }
+
+            if(age >= 13 && age < 20)
+            {
+                Console.WriteLine("du är en tonåring");
+            }
+            if (age >= 20 && age < 65)
+            {
+                Console.WriteLine("du är vuxen");
+
+            }
+            if (age >= 65 && age < 100)
+            {
+                Console.WriteLine("du är en senior citizen");
+            }
+            
         }
     }
 }
