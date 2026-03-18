@@ -1,0 +1,7 @@
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Hjälpmaterial\StoreValueFunction\StoreValueFunction\bin\Debug\StoreValueFunction.exe.config
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Hjälpmaterial\StoreValueFunction\StoreValueFunction\bin\Debug\StoreValueFunction.exe
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Hjälpmaterial\StoreValueFunction\StoreValueFunction\bin\Debug\StoreValueFunction.pdb
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Hjälpmaterial\StoreValueFunction\StoreValueFunction\obj\Debug\StoreValueFunction.csproj.AssemblyReference.cache
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Hjälpmaterial\StoreValueFunction\StoreValueFunction\obj\Debug\StoreValueFunction.csproj.CoreCompileInputs.cache
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Hjälpmaterial\StoreValueFunction\StoreValueFunction\obj\Debug\StoreValueFunction.exe
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Hjälpmaterial\StoreValueFunction\StoreValueFunction\obj\Debug\StoreValueFunction.pdb
