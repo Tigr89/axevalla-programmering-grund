@@ -117,9 +117,9 @@ namespace ConsoleApp1
                 }
                 if (gachamachine[2] == gachamachine2[1] && gachamachine[2] == gachamachine3[0])
                 {
-                    gachaROWcolour[0] = true;
+                    gachaROWcolour[2] = true;
                     gachaROWcolour2[1] = true;
-                    gachaROWcolour3[2] = true;
+                    gachaROWcolour3[0] = true;
                     Console.WriteLine("you win");
                     saldo = saldo + bet;
                     gains = saldo + bet;
