@@ -1,0 +1,16 @@
+C:\Users\Axevalla\Desktop\ViggoP\Emil uppg7\bin\Debug\Emil uppg7.exe.config
+C:\Users\Axevalla\Desktop\ViggoP\Emil uppg7\bin\Debug\Emil uppg7.exe
+C:\Users\Axevalla\Desktop\ViggoP\Emil uppg7\bin\Debug\Emil uppg7.pdb
+C:\Users\Axevalla\Desktop\ViggoP\Emil uppg7\obj\Debug\Emil uppg7.csproj.AssemblyReference.cache
+C:\Users\Axevalla\Desktop\ViggoP\Emil uppg7\obj\Debug\Emil uppg7.csproj.CoreCompileInputs.cache
+C:\Users\Axevalla\Desktop\ViggoP\Emil uppg7\obj\Debug\Emil uppg7.exe
+C:\Users\Axevalla\Desktop\ViggoP\Emil uppg7\obj\Debug\Emil uppg7.pdb
+C:\Users\Axevalla\Desktop\ViggoP\Emil uppg7\obj\Debug\Emil uppg7.exe.config
+C:\Users\Axevalla\Documents\Emil W\axevalla-programmering-grund\Uppgift 07 - Textspel\Emil uppg7\bin\Debug\Emil uppg7.exe.config
+C:\Users\Axevalla\Documents\Emil W\axevalla-programmering-grund\Uppgift 07 - Textspel\Emil uppg7\bin\Debug\Emil uppg7.exe
+C:\Users\Axevalla\Documents\Emil W\axevalla-programmering-grund\Uppgift 07 - Textspel\Emil uppg7\bin\Debug\Emil uppg7.pdb
+C:\Users\Axevalla\Documents\Emil W\axevalla-programmering-grund\Uppgift 07 - Textspel\Emil uppg7\obj\Debug\Emil uppg7.csproj.AssemblyReference.cache
+C:\Users\Axevalla\Documents\Emil W\axevalla-programmering-grund\Uppgift 07 - Textspel\Emil uppg7\obj\Debug\Emil uppg7.exe.config
+C:\Users\Axevalla\Documents\Emil W\axevalla-programmering-grund\Uppgift 07 - Textspel\Emil uppg7\obj\Debug\Emil uppg7.csproj.CoreCompileInputs.cache
+C:\Users\Axevalla\Documents\Emil W\axevalla-programmering-grund\Uppgift 07 - Textspel\Emil uppg7\obj\Debug\Emil uppg7.exe
+C:\Users\Axevalla\Documents\Emil W\axevalla-programmering-grund\Uppgift 07 - Textspel\Emil uppg7\obj\Debug\Emil uppg7.pdb
