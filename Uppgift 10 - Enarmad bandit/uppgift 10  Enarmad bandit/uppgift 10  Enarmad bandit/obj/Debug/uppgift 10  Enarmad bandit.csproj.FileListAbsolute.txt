@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 10 - Enarmad bandit\uppgift 10  Enarmad bandit\uppgift 10  Enarmad bandit\obj\Debug\uppgift 10  Enarmad bandit.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 10 - Enarmad bandit\uppgift 10  Enarmad bandit\uppgift 10  Enarmad bandit\obj\Debug\uppgift 10  Enarmad bandit.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 10 - Enarmad bandit\uppgift 10  Enarmad bandit\uppgift 10  Enarmad bandit\bin\Debug\uppgift 10  Enarmad bandit.exe.config
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 10 - Enarmad bandit\uppgift 10  Enarmad bandit\uppgift 10  Enarmad bandit\bin\Debug\uppgift 10  Enarmad bandit.exe
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 10 - Enarmad bandit\uppgift 10  Enarmad bandit\uppgift 10  Enarmad bandit\bin\Debug\uppgift 10  Enarmad bandit.pdb
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 10 - Enarmad bandit\uppgift 10  Enarmad bandit\uppgift 10  Enarmad bandit\obj\Debug\uppgift 10  Enarmad bandit.exe
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 10 - Enarmad bandit\uppgift 10  Enarmad bandit\uppgift 10  Enarmad bandit\obj\Debug\uppgift 10  Enarmad bandit.pdb
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 10 - Enarmad bandit\uppgift 10  Enarmad bandit\uppgift 10  Enarmad bandit\obj\Debug\uppgift 10  Enarmad bandit.exe.config
