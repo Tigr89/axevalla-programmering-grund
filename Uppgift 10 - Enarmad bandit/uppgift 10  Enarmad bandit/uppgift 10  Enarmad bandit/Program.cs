@@ -19,18 +19,49 @@ namespace uppgift_10__Enarmad_bandit
             int spin3 = rnd.Next(1, 7);
             int jackpot;
             int winst;
-            int quit;
-            
-            
+            int loop = 0;
 
-            Console.WriteLine("How many coins do you wanna bet on the slot machine? you currently have " + coins + " left");
-
-            coinsinserted = int.Parse(Console.ReadLine());
-            coins = coinsinserted - coins;
             
 
-            Console.WriteLine("You bet " + coinsinserted + " coins. Ready to gamble? Let's start!");
-            slotmachine();
+            while(coins >= 1)
+            {
+                Console.WriteLine("How many coins do you wanna bet on the slot machine? you currently have " + coins + " left");
+
+                coinsinserted = int.Parse(Console.ReadLine());
+                coins = coins - coinsinserted;
+
+
+                Console.WriteLine("You bet " + coinsinserted + " coins. Ready to gamble? Let's start!");
+                slotmachine();
+
+
+                
+
+                Console.WriteLine("You have " + coins + " coins left. Do you wanna quit or continue press N to quit or any key to continue");
+
+                string quit = Console.ReadLine();
+                if (quit == "N")
+                {
+                    break;
+                }
+
+            }
+
+            if (coins >= 10000)
+            {
+                Console.WriteLine("You ended up with " + coins + " amount of coins! That is more than what you started with, well done!");
+            }
+
+
+            if (coins <= 10000)
+            {
+                Console.WriteLine("You ended up with " + coins + " amount of coins... You lost more than you gained...");
+            }
+
+
+            //if continue, go back to betting 
+
+
 
 
             //make slotmachine spin
@@ -46,13 +77,13 @@ namespace uppgift_10__Enarmad_bandit
                 {
                     if (spin1 == 7)
                     {
-                        coins = coinsinserted * 50;
+                        coins = coins + coinsinserted * 50;
                         Console.WriteLine("congrats! You won " + coins + " coins!");
                     }
 
                     else if (spin1 == 1 || spin1 == 2 || spin1 == 3 || spin1 == 4 || spin1 == 5 || spin1 == 6)
                     {
-                        coins = coinsinserted * 10;
+                        coins = coins + coinsinserted * 10;
                         Console.WriteLine("congrats! You won " + coins + " coins!");
                     }
                 }
@@ -61,14 +92,14 @@ namespace uppgift_10__Enarmad_bandit
                 {
                     if (spin1 == 7)
                     {
-                        coins = coinsinserted * 5;
+                        coins = coins + coinsinserted * 5;
                         Console.WriteLine("congrats! You won " + coins + " coins!");
 
                     }
 
                     else if (spin1 == 1 || spin1 == 2 || spin1 == 3 || spin1 == 4 || spin1 == 5 || spin1 == 6)
                     {
-                        coins = coinsinserted * 2;
+                        coins = coins + coinsinserted * 2;
                         Console.WriteLine("congrats! You won " + coins + " coins!");
                     }
                 }
@@ -77,37 +108,21 @@ namespace uppgift_10__Enarmad_bandit
                 {
                     if (spin2 == 7)
                     {
-                        coins = coinsinserted * 5;
+                        coins = coins + coinsinserted  * 5;
                         Console.WriteLine("congrats! You won " + coins + " coins!");
 
                     }
 
                     else if (spin2 == 1 || spin2 == 2 || spin2 == 3 || spin2 == 4 || spin2 == 5 || spin2 == 6)
                     {
-                        coins = coinsinserted * 2;
+                        coins = coins +  coinsinserted * 2;
                         Console.WriteLine("congrats! You won " + coins + " coins!");
                     }
                 }
 
-                Console.WriteLine("Do you wanna quit or continue");
-                 
-                if (quit && coins => 10000)
-                {
-                    Console.WriteLine("You ended up with " + coins + " amount of coins! That is more than what you started with, well done!");
-                }
 
-
-                if (quit && coins =< 10000)
-                {
-                    Console.WriteLine("You ended up with " + coins + " amount of coins... You lost more than you gained...");
-                }
-
-                //if continue, go back to betting 
 
             }
-
-
-
 
 
 
