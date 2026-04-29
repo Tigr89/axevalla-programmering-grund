@@ -10,7 +10,7 @@ namespace uppgift_11___Klasser
     {
         static void Main(string[] args)
         {
-            List<string> name;
+            List<string> animals;
 
             {
 
