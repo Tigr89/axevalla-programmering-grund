@@ -1,0 +1,7 @@
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Hjälpmaterial\SuperIceCreamSeller\SuperIceCreamSeller\bin\Debug\SuperIceCreamSeller.exe.config
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Hjälpmaterial\SuperIceCreamSeller\SuperIceCreamSeller\bin\Debug\SuperIceCreamSeller.exe
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Hjälpmaterial\SuperIceCreamSeller\SuperIceCreamSeller\bin\Debug\SuperIceCreamSeller.pdb
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Hjälpmaterial\SuperIceCreamSeller\SuperIceCreamSeller\obj\Debug\SuperIceCreamSeller.csproj.AssemblyReference.cache
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Hjälpmaterial\SuperIceCreamSeller\SuperIceCreamSeller\obj\Debug\SuperIceCreamSeller.csproj.CoreCompileInputs.cache
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Hjälpmaterial\SuperIceCreamSeller\SuperIceCreamSeller\obj\Debug\SuperIceCreamSeller.exe
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Hjälpmaterial\SuperIceCreamSeller\SuperIceCreamSeller\obj\Debug\SuperIceCreamSeller.pdb
