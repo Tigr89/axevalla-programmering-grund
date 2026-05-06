@@ -10,21 +10,35 @@ namespace uppgift_11___Klasser
     {
         static void Main(string[] args)
         {
-            List<string> animals;
 
+            List<string> Animalclass;
+            
             {
+
+
+                Console.WriteLine("please enter household pets");
+
+                Console.ReadLine();
+                
+                Animalclass AnimalInstance;
+
+
+
 
             }
 
 
-
-
-
-
-
-
-
-
+            
         }
+
+
+            
+
+
+
+
+
+
+        
     }
 }
