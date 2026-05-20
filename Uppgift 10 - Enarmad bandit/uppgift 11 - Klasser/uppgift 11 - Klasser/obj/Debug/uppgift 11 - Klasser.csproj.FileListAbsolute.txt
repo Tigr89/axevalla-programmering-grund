@@ -1,2 +1,8 @@
 C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 10 - Enarmad bandit\uppgift 11 - Klasser\uppgift 11 - Klasser\obj\Debug\uppgift 11 - Klasser.csproj.AssemblyReference.cache
 C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 10 - Enarmad bandit\uppgift 11 - Klasser\uppgift 11 - Klasser\obj\Debug\uppgift 11 - Klasser.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 10 - Enarmad bandit\uppgift 11 - Klasser\uppgift 11 - Klasser\bin\Debug\uppgift 11 - Klasser.exe.config
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 10 - Enarmad bandit\uppgift 11 - Klasser\uppgift 11 - Klasser\bin\Debug\uppgift 11 - Klasser.exe
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 10 - Enarmad bandit\uppgift 11 - Klasser\uppgift 11 - Klasser\bin\Debug\uppgift 11 - Klasser.pdb
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 10 - Enarmad bandit\uppgift 11 - Klasser\uppgift 11 - Klasser\obj\Debug\uppgift 11 - Klasser.exe
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 10 - Enarmad bandit\uppgift 11 - Klasser\uppgift 11 - Klasser\obj\Debug\uppgift 11 - Klasser.pdb
+C:\Users\Admin\Desktop\adam N uppgifter\programmering Adam N\axevalla-programmering-grund\Uppgift 10 - Enarmad bandit\uppgift 11 - Klasser\uppgift 11 - Klasser\obj\Debug\uppgift 11 - Klasser.exe.config
