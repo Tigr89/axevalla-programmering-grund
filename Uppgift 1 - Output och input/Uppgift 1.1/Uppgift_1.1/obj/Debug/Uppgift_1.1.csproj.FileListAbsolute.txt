@@ -1,0 +1,7 @@
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Uppgift 1 - Output och Input\Uppgift 1.1\Uppgift_1.1\Uppgift_1.1\bin\Debug\Uppgift_1.1.exe.config
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Uppgift 1 - Output och Input\Uppgift 1.1\Uppgift_1.1\Uppgift_1.1\bin\Debug\Uppgift_1.1.exe
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Uppgift 1 - Output och Input\Uppgift 1.1\Uppgift_1.1\Uppgift_1.1\bin\Debug\Uppgift_1.1.pdb
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Uppgift 1 - Output och Input\Uppgift 1.1\Uppgift_1.1\Uppgift_1.1\obj\Debug\Uppgift_1.1.csproj.AssemblyReference.cache
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Uppgift 1 - Output och Input\Uppgift 1.1\Uppgift_1.1\Uppgift_1.1\obj\Debug\Uppgift_1.1.csproj.CoreCompileInputs.cache
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Uppgift 1 - Output och Input\Uppgift 1.1\Uppgift_1.1\Uppgift_1.1\obj\Debug\Uppgift_1.1.exe
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Uppgift 1 - Output och Input\Uppgift 1.1\Uppgift_1.1\Uppgift_1.1\obj\Debug\Uppgift_1.1.pdb

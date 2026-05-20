@@ -1,0 +1,7 @@
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Hjälpmaterial\Uppgift_1.0\Uppgift_1.0\bin\Debug\Uppgift_1.0.exe.config
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Hjälpmaterial\Uppgift_1.0\Uppgift_1.0\bin\Debug\Uppgift_1.0.exe
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Hjälpmaterial\Uppgift_1.0\Uppgift_1.0\bin\Debug\Uppgift_1.0.pdb
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Hjälpmaterial\Uppgift_1.0\Uppgift_1.0\obj\Debug\Uppgift_1.0.csproj.AssemblyReference.cache
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Hjälpmaterial\Uppgift_1.0\Uppgift_1.0\obj\Debug\Uppgift_1.0.csproj.CoreCompileInputs.cache
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Hjälpmaterial\Uppgift_1.0\Uppgift_1.0\obj\Debug\Uppgift_1.0.exe
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Hjälpmaterial\Uppgift_1.0\Uppgift_1.0\obj\Debug\Uppgift_1.0.pdb
