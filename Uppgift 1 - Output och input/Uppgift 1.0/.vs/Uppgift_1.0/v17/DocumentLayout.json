@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Tigr8\\Documents\\Programmering\\Git Project\\axevalla-programmering-grund\\Uppgift 1.1 - Output och Input\\",
+  "WorkspaceRootPath": "C:\\Users\\Tigr8\\Documents\\Programmering\\Git Project\\axevalla-programmering-grund\\Uppgift 1 - Output och input\\Uppgift 1.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A0D8AA4-4EB9-40E4-A480-61B3281818F1}|Uppgift_1.0\\Uppgift_1.0.csproj|c:\\users\\tigr8\\documents\\programmering\\git project\\axevalla-programmering-grund\\uppgift 1.1 - output och input\\uppgift_1.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A0D8AA4-4EB9-40E4-A480-61B3281818F1}|Uppgift_1.0\\Uppgift_1.0.csproj|c:\\users\\tigr8\\documents\\programmering\\git project\\axevalla-programmering-grund\\uppgift 1 - output och input\\uppgift 1.0\\uppgift_1.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A0D8AA4-4EB9-40E4-A480-61B3281818F1}|Uppgift_1.0\\Uppgift_1.0.csproj|solutionrelative:uppgift_1.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tigr8\\Documents\\Programmering\\Git Project\\axevalla-programmering-grund\\Uppgift 1.1 - Output och Input\\Uppgift_1.0\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tigr8\\Documents\\Programmering\\Git Project\\axevalla-programmering-grund\\Uppgift 1 - Output och input\\Uppgift 1.0\\Uppgift_1.0\\Program.cs",
               "RelativeDocumentMoniker": "Uppgift_1.0\\Program.cs",
-              "ToolTip": "C:\\Users\\Tigr8\\Documents\\Programmering\\Git Project\\axevalla-programmering-grund\\Uppgift 1.1 - Output och Input\\Uppgift_1.0\\Program.cs",
+              "ToolTip": "C:\\Users\\Tigr8\\Documents\\Programmering\\Git Project\\axevalla-programmering-grund\\Uppgift 1 - Output och input\\Uppgift 1.0\\Uppgift_1.0\\Program.cs",
               "RelativeToolTip": "Uppgift_1.0\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-20T06:47:55.579Z",
               "EditorCaption": ""
