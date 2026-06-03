@@ -47,6 +47,12 @@ namespace FileManagement
             //Kalla på funktion
             //Skriv till textdokumentet
 
+            File04Task(input04);
+            /*foreach (int number in result04)
+            {
+                Console.WriteLine(number);
+            }*/
+
             //Jobba med File05 här
             //Kalla på funktion
             //Skriv till textdokumentet
@@ -119,9 +125,18 @@ namespace FileManagement
 
         static void File04Task(string[] input)
         {
+            String[] returnInformation = new string[input.Length];
             //Svara på frågorna! 
             //Ledtråd: jobba med varje array-element för sig.
-            
+            Console.WriteLine("Answer these questions: ");
+            foreach(string question in input)
+            {
+
+            Console.WriteLine(question + " ");
+            string answer = Console.ReadLine();
+
+                File.AppendText("../../FilesToRead/File04.txt");
+            }
             
             //return? Just nu är funktionen "void" -- dvs. funktionen skickar inte tillbaka 
             //något värde.
