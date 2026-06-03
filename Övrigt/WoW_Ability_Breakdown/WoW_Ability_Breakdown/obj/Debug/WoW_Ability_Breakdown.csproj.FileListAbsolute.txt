@@ -1,0 +1,7 @@
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Övrigt\WoW_Ability_Breakdown\WoW_Ability_Breakdown\bin\Debug\WoW_Ability_Breakdown.exe.config
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Övrigt\WoW_Ability_Breakdown\WoW_Ability_Breakdown\bin\Debug\WoW_Ability_Breakdown.exe
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Övrigt\WoW_Ability_Breakdown\WoW_Ability_Breakdown\bin\Debug\WoW_Ability_Breakdown.pdb
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Övrigt\WoW_Ability_Breakdown\WoW_Ability_Breakdown\obj\Debug\WoW_Ability_Breakdown.csproj.AssemblyReference.cache
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Övrigt\WoW_Ability_Breakdown\WoW_Ability_Breakdown\obj\Debug\WoW_Ability_Breakdown.csproj.CoreCompileInputs.cache
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Övrigt\WoW_Ability_Breakdown\WoW_Ability_Breakdown\obj\Debug\WoW_Ability_Breakdown.exe
+C:\Users\Tigr8\Documents\Programmering\Git Project\axevalla-programmering-grund\Övrigt\WoW_Ability_Breakdown\WoW_Ability_Breakdown\obj\Debug\WoW_Ability_Breakdown.pdb

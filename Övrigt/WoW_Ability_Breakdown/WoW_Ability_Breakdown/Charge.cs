@@ -6,13 +6,10 @@ using System.Threading.Tasks;
 
 namespace WoW_Ability_Breakdown
 {
-    abstract class Program
+    class Charge : Ability
     {
-        static void Main(string[] args)
-        {
-            Charge charge = new Charge();
+        //CHARGE
 
-            charge.name = "Charge";
-        }
+
     }
 }

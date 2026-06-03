@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Tigr8\\Documents\\Programmering\\Git Project\\axevalla-programmering-grund\\\u00D6vrigt\\WoW_Ability_Breakdown\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3579BED7-144C-4DC1-9EA7-4CC632DC7F26}|WoW_Ability_Breakdown\\WoW_Ability_Breakdown.csproj|c:\\users\\tigr8\\documents\\programmering\\git project\\axevalla-programmering-grund\\\u00F6vrigt\\wow_ability_breakdown\\wow_ability_breakdown\\earthshock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3579BED7-144C-4DC1-9EA7-4CC632DC7F26}|WoW_Ability_Breakdown\\WoW_Ability_Breakdown.csproj|solutionrelative:wow_ability_breakdown\\earthshock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3579BED7-144C-4DC1-9EA7-4CC632DC7F26}|WoW_Ability_Breakdown\\WoW_Ability_Breakdown.csproj|c:\\users\\tigr8\\documents\\programmering\\git project\\axevalla-programmering-grund\\\u00F6vrigt\\wow_ability_breakdown\\wow_ability_breakdown\\charge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3579BED7-144C-4DC1-9EA7-4CC632DC7F26}|WoW_Ability_Breakdown\\WoW_Ability_Breakdown.csproj|solutionrelative:wow_ability_breakdown\\charge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3579BED7-144C-4DC1-9EA7-4CC632DC7F26}|WoW_Ability_Breakdown\\WoW_Ability_Breakdown.csproj|c:\\users\\tigr8\\documents\\programmering\\git project\\axevalla-programmering-grund\\\u00F6vrigt\\wow_ability_breakdown\\wow_ability_breakdown\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3579BED7-144C-4DC1-9EA7-4CC632DC7F26}|WoW_Ability_Breakdown\\WoW_Ability_Breakdown.csproj|solutionrelative:wow_ability_breakdown\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3579BED7-144C-4DC1-9EA7-4CC632DC7F26}|WoW_Ability_Breakdown\\WoW_Ability_Breakdown.csproj|c:\\users\\tigr8\\documents\\programmering\\git project\\axevalla-programmering-grund\\\u00F6vrigt\\wow_ability_breakdown\\wow_ability_breakdown\\frostbolt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3579BED7-144C-4DC1-9EA7-4CC632DC7F26}|WoW_Ability_Breakdown\\WoW_Ability_Breakdown.csproj|solutionrelative:wow_ability_breakdown\\frostbolt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3579BED7-144C-4DC1-9EA7-4CC632DC7F26}|WoW_Ability_Breakdown\\WoW_Ability_Breakdown.csproj|c:\\users\\tigr8\\documents\\programmering\\git project\\axevalla-programmering-grund\\\u00F6vrigt\\wow_ability_breakdown\\wow_ability_breakdown\\ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3579BED7-144C-4DC1-9EA7-4CC632DC7F26}|WoW_Ability_Breakdown\\WoW_Ability_Breakdown.csproj|solutionrelative:wow_ability_breakdown\\ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +35,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EarthShock.cs",
+              "DocumentMoniker": "C:\\Users\\Tigr8\\Documents\\Programmering\\Git Project\\axevalla-programmering-grund\\\u00D6vrigt\\WoW_Ability_Breakdown\\WoW_Ability_Breakdown\\EarthShock.cs",
+              "RelativeDocumentMoniker": "WoW_Ability_Breakdown\\EarthShock.cs",
+              "ToolTip": "C:\\Users\\Tigr8\\Documents\\Programmering\\Git Project\\axevalla-programmering-grund\\\u00D6vrigt\\WoW_Ability_Breakdown\\WoW_Ability_Breakdown\\EarthShock.cs",
+              "RelativeToolTip": "WoW_Ability_Breakdown\\EarthShock.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T08:58:12.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ability.cs",
+              "DocumentMoniker": "C:\\Users\\Tigr8\\Documents\\Programmering\\Git Project\\axevalla-programmering-grund\\\u00D6vrigt\\WoW_Ability_Breakdown\\WoW_Ability_Breakdown\\Ability.cs",
+              "RelativeDocumentMoniker": "WoW_Ability_Breakdown\\Ability.cs",
+              "ToolTip": "C:\\Users\\Tigr8\\Documents\\Programmering\\Git Project\\axevalla-programmering-grund\\\u00D6vrigt\\WoW_Ability_Breakdown\\WoW_Ability_Breakdown\\Ability.cs",
+              "RelativeToolTip": "WoW_Ability_Breakdown\\Ability.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T08:56:23.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrostBolt.cs",
+              "DocumentMoniker": "C:\\Users\\Tigr8\\Documents\\Programmering\\Git Project\\axevalla-programmering-grund\\\u00D6vrigt\\WoW_Ability_Breakdown\\WoW_Ability_Breakdown\\FrostBolt.cs",
+              "RelativeDocumentMoniker": "WoW_Ability_Breakdown\\FrostBolt.cs",
+              "ToolTip": "C:\\Users\\Tigr8\\Documents\\Programmering\\Git Project\\axevalla-programmering-grund\\\u00D6vrigt\\WoW_Ability_Breakdown\\WoW_Ability_Breakdown\\FrostBolt.cs",
+              "RelativeToolTip": "WoW_Ability_Breakdown\\FrostBolt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T08:41:03.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Charge.cs",
+              "DocumentMoniker": "C:\\Users\\Tigr8\\Documents\\Programmering\\Git Project\\axevalla-programmering-grund\\\u00D6vrigt\\WoW_Ability_Breakdown\\WoW_Ability_Breakdown\\Charge.cs",
+              "RelativeDocumentMoniker": "WoW_Ability_Breakdown\\Charge.cs",
+              "ToolTip": "C:\\Users\\Tigr8\\Documents\\Programmering\\Git Project\\axevalla-programmering-grund\\\u00D6vrigt\\WoW_Ability_Breakdown\\WoW_Ability_Breakdown\\Charge.cs",
+              "RelativeToolTip": "WoW_Ability_Breakdown\\Charge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T08:20:41.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Tigr8\\Documents\\Programmering\\Git Project\\axevalla-programmering-grund\\\u00D6vrigt\\WoW_Ability_Breakdown\\WoW_Ability_Breakdown\\Program.cs",
               "RelativeDocumentMoniker": "WoW_Ability_Breakdown\\Program.cs",
               "ToolTip": "C:\\Users\\Tigr8\\Documents\\Programmering\\Git Project\\axevalla-programmering-grund\\\u00D6vrigt\\WoW_Ability_Breakdown\\WoW_Ability_Breakdown\\Program.cs",
               "RelativeToolTip": "WoW_Ability_Breakdown\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-27T06:33:30.551Z",
               "EditorCaption": ""
