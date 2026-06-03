@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+using System.ComponentModel;
+using System.Linq.Expressions;
+using System.Net.Http.Headers;
 
 namespace FileManagement
 {
@@ -12,20 +15,30 @@ namespace FileManagement
         static void Main(string[] args)
         {
             //Hämta information ifrån textfilen! Denna fil finns lokalt på datorn.
-            string input01 = File.ReadAllText("../../Tim's mapp/File00.txt");
-            //string input02 = ??? (ReadAllText)
-            //string[] input03 = ??? (ReadAllLines)
-            //string[] input04 = ??? (ReadAllLines)
+            string input01 = File.ReadAllText("../../FilesToRead/File01.txt");
+            string input02 = File.ReadAllText("../../FilesToRead/File02.txt");
+            string[] input03 = File.ReadAllLines("../../FilesToRead/File03.txt");
+            string[] input04 = File.ReadAllLines("../../FilesToRead/File04.txt");
 
             //Jobba med File01 här
             string result01 = File01Task(input01);
             Console.WriteLine(result01);
 
             //Jobba med File02 här
-            //Kalla på funktion
+            List<int> result2 = File02Task(input02);
+            foreach (int symbol in  result2)
+            {
+                Console.Write(symbol + ",");
+               
+            }
+            Console.WriteLine();
 
             //Jobba med File03 här
-            //Kalla på funktion
+            int[] result03 = File03Task(input03);
+            foreach (int symbol in result03)
+            {
+                Console.WriteLine(symbol);
+            }
 
             //Jobba med File04 här
             //Kalla på funktion
@@ -42,14 +55,17 @@ namespace FileManagement
             //Detta så att vi kan använda oss av funktionen "sort".
             char[] listToSort = input.ToCharArray();
             string returnString = "";
-
-            foreach(char letter in listToSort)
-            {
-                returnString += letter;
-            }
+            Array.Sort(listToSort);
 
             //sortera arrayen här.
             //???
+
+            foreach (char symbol in listToSort)
+            {
+                returnString = returnString + symbol;
+            }
+
+            
 
             //Här skickar vi tillbaka listan i datatypen "string".
             return returnString;
@@ -57,24 +73,38 @@ namespace FileManagement
 
         static List<int> File02Task(string input)
         {
+            
             string[] listToSort = input.Split(',');
+            
 
             //Vi vill mata in vår lista av "bokstavssiffror" så att de blir till
             //faktiska siffror. Vi använder en lista här istället för en array eftersom
             //vi kommer att vilja lägga till saker dynamiskt. 
             List<int> intsInList = new List<int>();
 
-            foreach(string siffra in listToSort)
+            foreach (string symbol in listToSort)
             {
+
                 //För varje (for each) siffra (vårt valda variabelnamn) i vår lista
                 //ska läggas in i vår lista "intsInList". 
+                
+                intsInList.Add(Convert.ToInt32(symbol));
             }
-
+            
             return intsInList;
         }
 
         static int[] File03Task(string[] input)
         {
+            
+            int[] returnIntArray = new int[input.Length];
+            Array.Sort(input);
+
+            for (int i = 0; i < input.Length; i++)
+            {
+                returnIntArray[i] = Convert.ToInt32(input[i]);
+            }
+            Array.Sort(returnIntArray);
             //Här får ni en färdig array med rader som enbart består av "bokstavssiffror".
             //Ert uppdrag är att sortera arrayen och skicka tillbaka den till main.
 
@@ -84,15 +114,30 @@ namespace FileManagement
 
             //Returnera listan!
             //Ersätt null med ert resultat!
-            return null;
+            return returnIntArray;
         }
 
         static void File04Task(string[] input)
         {
+            string[]
+            int choice = input.Length;
+            choice = Convert.ToInt32(choice);
+
+            Console.WriteLine("Name: ");
+            Console.ReadLine();
+            Console.WriteLine("Year of birth: ");
+            Console.ReadLine();
+            Console.WriteLine("Favourite colour: ");
+            Console.ReadLine();
+            Console.WriteLine("Favourite building in Axevalla Folkhögskola: "); 
+            Console.ReadLine();
+
+
+
             //Svara på frågorna! 
             //Ledtråd: jobba med varje array-element för sig.
-            
-            
+
+
             //return? Just nu är funktionen "void" -- dvs. funktionen skickar inte tillbaka 
             //något värde.
             //Vill ni skicka tillbaka en string eller en List<string?/char?>?
