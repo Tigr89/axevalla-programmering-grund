@@ -43,6 +43,7 @@ namespace FileManagement
             //Jobba med File04 här
             //Kalla på funktion
             //Skriv till textdokumentet
+            File04Task(input04);
 
             //Jobba med File05 här
             //Kalla på funktion
@@ -119,18 +120,23 @@ namespace FileManagement
 
         static void File04Task(string[] input)
         {
-            string[]
-            int choice = input.Length;
-            choice = Convert.ToInt32(choice);
+            string[] returnInformation = new string[input.Length];
+            Console.WriteLine("answer these questions:");
+            
+            for (int i = 0;i < input.Length;i++)
+            {
+                Console.Write(input[i] +" ");
+                string answer = Console.ReadLine();
 
-            Console.WriteLine("Name: ");
-            Console.ReadLine();
-            Console.WriteLine("Year of birth: ");
-            Console.ReadLine();
-            Console.WriteLine("Favourite colour: ");
-            Console.ReadLine();
-            Console.WriteLine("Favourite building in Axevalla Folkhögskola: "); 
-            Console.ReadLine();
+                returnInformation[i] += input[i] + " " + answer; 
+            }
+           foreach(string QuestionAndAnswer in returnInformation)
+            {
+                Console.WriteLine(QuestionAndAnswer);
+            }
+        
+
+           
 
 
 
